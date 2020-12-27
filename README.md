@@ -6,9 +6,10 @@
 
 **Today's Progress**: 
 1. Continued with Angela Yu's 2020 Web Dev Bootcamp </br>
-    1. FizzBuzz challenge
+    1. FizzBuzz challenge (No Loop)
     1. Who's Paying code
     1. Leap Year Calculator
+    1. FizzBuzz (with While Loop)
 
 **Thoughts:**</br> 
 1. The FizzBuzz challenge took forever, at least 3-4 hours, but I was ecstatic to have solved it without watching the solution.</br> 
