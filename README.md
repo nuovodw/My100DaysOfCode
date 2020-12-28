@@ -11,6 +11,7 @@
     1. Leap Year Calculator (Modulo)
     1. FizzBuzz (with While Loop)
     1. 99 Bottles on the Wall (While Loop)
+    1. FizzBuzz (with For Loop)
 
 **Thoughts:**</br> 
 1. The FizzBuzz challenge took forever, at least 3-4 hours, but I was ecstatic to have solved it without watching the solution.</br> 
