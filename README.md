@@ -10,7 +10,7 @@
     1. Who's Paying code (Math.random, Math.floor)
     1. Leap Year Calculator (Modulo)
     1. FizzBuzz (with While Loop)
-    1. 99 Bottles of Beer on the Wall (While Loop)
+    1. 99 Bottles on the Wall (While Loop)
 
 **Thoughts:**</br> 
 1. The FizzBuzz challenge took forever, at least 3-4 hours, but I was ecstatic to have solved it without watching the solution.</br> 
