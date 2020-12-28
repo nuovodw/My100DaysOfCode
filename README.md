@@ -23,7 +23,21 @@
 1. Start Andrei Neagoie's JavaScript and study through the Intermediate section.
 1. Start Angela Yu's CSS
 
+</br>
+</br>
 
+### Day 2: December 28, 2020
+<!-- ##### (delete me or comment me out)-->
+
+**Today's Progress**: 
+1. Started working on the Fibonacci sequence challenge.
+
+**Thoughts:**</br> 
+1. I've been working on it for about 2 hours now; it seems like I'm about half way there.
+1. Perhaps it's a little over my head, but I'll give another crack at it after a break.
+
+**Short-term plan:**</br> 
+1. Finish the Fibonacci challenge by the end of the day!
 
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
