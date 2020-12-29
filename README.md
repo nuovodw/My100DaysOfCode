@@ -32,7 +32,6 @@
 **Today's Progress**: 
 1. Started working on the Fibonacci sequence challenge.
 1. (3 hours later) I solved it!!
-    1. [Fibonacci Generator](Code Practice/fibonacci_generator.js)
 
 **Thoughts:**</br> 
 1. ~~I've been working on it for about 2 hours now; it seems like I'm about half way there.~~
