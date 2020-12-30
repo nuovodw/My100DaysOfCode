@@ -70,10 +70,6 @@
 1. Revisit CSS, as I haven't done it in a few days.
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
 
