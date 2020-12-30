@@ -6,11 +6,11 @@
 
 **Today's Progress**: 
 1. Continued with Angela Yu's 2020 Web Dev Bootcamp + Coding Challenges</br>
-    1. FizzBuzz challenge (No Loop)
+    1. [FizzBuzz challenge (No Loop)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/FizzBuzz_No_ForLoop.js)
     1. Who's Paying code (Math.random, Math.floor)
     1. Leap Year Calculator (Modulo)
     1. FizzBuzz (with While Loop)
-    1. 99 Bottles on the Wall (While Loop)
+    1. [99 Bottles on the Wall (While Loop)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/99_Bottles.js)
     1. FizzBuzz (with For Loop)
 
 **Thoughts:**</br> 
@@ -32,6 +32,8 @@
 **Today's Progress**: 
 1. Started working on the Fibonacci sequence challenge.
 1. (3 hours later) I solved it!!
+    1. [Fibonacci Generator](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/fibonacci_generator.js)
+1. Finished Angela Yu's JavaScript module through the intermediate level.
 
 **Thoughts:**</br> 
 1. ~~I've been working on it for about 2 hours now; it seems like I'm about half way there.~~
@@ -41,6 +43,36 @@
 **Short-term plan:**</br> 
 1. Finish the Fibonacci challenge by the end of the day!
 1. Revisit CSS, as I haven't done it in a few days.
+
+
+</br>
+</br>
+
+### Day 3: December 29, 2020
+
+**Today's Progress**: 
+1. Started Andrei Neagoie's JavaScript modules (from Web Dev: Zero to Mastery).
+    1. Completed through about half of the beginning/intermediate level.
+    1. Finished 5 coding challenges.
+
+**Thoughts:**</br> 
+1. I consider Jonas Schmedtmann's Complete JavaScript Course 2021 as my main guide for JavaScript.
+    1. I recently completed all modules and coding challenges through the intermediate level (Fundamentals Part I/II).
+1. I decided to review my JavaScript knowledge and coding skills with Angela Yu's and Adrei N.'s bootcamp courses, because:
+    1. I wanted to make sure that my JS foundation was solid before moving on to Schmedtmann's advanced modules.
+    2. Yu's and Neagoie's JS modules are relatively short.
+    3. I'm glad I chose this path.
+
+**Short-term plan:**</br> 
+1. Finish Neagoie's JS through the intermediate level in the next couple of days.
+1. Jump into Schmedtmann's advanced JS lectures.
+    1. I'm looking forward to learning DOM manipulation.
+1. Revisit CSS, as I haven't done it in a few days.
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
