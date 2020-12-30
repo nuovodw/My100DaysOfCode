@@ -7,11 +7,11 @@
 **Today's Progress**: 
 1. Continued with Angela Yu's 2020 Web Dev Bootcamp + Coding Challenges</br>
     1. [FizzBuzz challenge (No Loop)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/FizzBuzz_No_ForLoop.js)
-    1. Who's Paying code (Math.random, Math.floor)
-    1. Leap Year Calculator (Modulo)
-    1. FizzBuzz (with While Loop)
+    1. [Who's Paying code (Math.random, Math.floor)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/Who_Is_Paying.js)
+    1. [Leap Year Calculator (Modulo)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/Leap_Year_Calculator.js)
+    1. [FizzBuzz (with While Loop)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/FizzBuzz_While_Loop.js)
     1. [99 Bottles on the Wall (While Loop)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/99_Bottles.js)
-    1. FizzBuzz (with For Loop)
+    1. [FizzBuzz (with For Loop)](https://github.com/nuovodw/My100DaysOfCode/blob/main/Code%20Practice/FizzBuzz_For_Loop.js)
 
 **Thoughts:**</br> 
 1. The FizzBuzz challenge took forever, at least 3-4 hours, but I was ecstatic to have solved it without watching the solution.</br> 
