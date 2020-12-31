@@ -70,6 +70,29 @@
 1. Revisit CSS, as I haven't done it in a few days.
 
 
+</br>
+</br>
+
+### Day 4: December 30, 2020
+
+**Today's Progress**: 
+1. Continued with Neogoie's JavaScript modules.
+2. Took a break from JS for a little bit and followed along Carla-Codes's Youtube video of Starry Night CSS Animation.
+
+**Thoughts:**</br> 
+1. It's interesting and helpful to hear different instructors explain javaScript. 
+    1. I'm picking up things I missed from the first two instructors; I'm glad to be reviewing the intermediate JS.
+2. Tried CSS animation for the first time today--WOW!
+    1. I only understood half of the program but it was nice to see what's possible with CSS--and to take a break from JS for a little bit.
+
+**Short-term plan:**</br> 
+1. Finish Neagoie's JS through the intermediate level tomorrow.
+1. Jump into Schmedtmann's advanced JS lectures.
+    1. I'm looking forward to learning DOM manipulation.
+1. Revisit CSS, as I haven't done it in a few days.
+
+
+
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
 
