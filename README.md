@@ -92,6 +92,45 @@
 1. Revisit CSS, as I haven't done it in a few days.
 
 
+</br>
+</br>
+
+### Day 5: December 31, 2020 
+
+**:white_check_mark:Today's Progress**: 
+1. Completed Neagoie's JavaScript upto the intermediate level. 
+1. Figured out how to use emoji on GitHub :laughing:
+
+**:thought_balloon:Thoughts:**</br> 
+1. Happy to be on track with my timeline!
+    1. Finished, and took all code challenges and test from, 3 javaScript courses (Schmedtmann, Yu, Neogoie):facepunch::facepunch::facepunch:
+1. I feel pretty confident about the following javaScript topics I've learned so far:
+    1. Types
+        1. Number, String, Boolean, Undefined, Null, Object (haven't gotten into Symbol yet)
+    1. Comparisons
+    1. Variables
+    1. Conditionals
+        1. if, else, else if, ternery operator, switch
+    1. Logical Operators
+    1. Function Declaration and Expression 
+        1. still confused about => Arrow function
+    1. Array, Objects, Methods
+    1. Looping
+        1. for, while, do (forEach is still confusing)
+
+**:calendar:Short-term plan:**</br> 
+1. Start advanced javaScript with Jonas Schmedtmann (Morning)
+1. Continue to learn CSS (Evening)
+
+**:spiral_calendar:	Long-term plan:**</br> 
+1. By February 15, 2021
+    1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
+1. By March 31, 2021 
+    1. Wes Bos's JavaScript 30 Challenge
+    1. B. Traversy's 20 Web Projects with Vanilla JavaScript
+    1. Neagoie's JavaScript Web Projects
+1. By April 15, 2021
+    1. Complete React
 
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
