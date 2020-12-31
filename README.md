@@ -100,6 +100,9 @@
 **:white_check_mark:Today's Progress**: 
 1. Completed Neagoie's JavaScript upto the intermediate level. 
 1. Figured out how to use emoji on GitHub :laughing:
+1. Learned from Jonas S. how to think like a developer.
+    1. Worked on a real-world scenario
+    1. Step-by-step guide on how best to use StackOverflow and MDN.
 
 **:thought_balloon:Thoughts:**</br> 
 1. Happy to be on track with my timeline!
@@ -120,6 +123,7 @@
 
 **:calendar:Short-term plan:**</br> 
 1. Start advanced javaScript with Jonas Schmedtmann (Morning)
+    1. "Debugging with the Console and Breakpoints"
 1. Continue to learn CSS (Evening)
 
 **:spiral_calendar:	Long-term plan:**</br> 
