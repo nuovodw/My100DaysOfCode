@@ -136,6 +136,38 @@
 1. By April 15, 2021
     1. Complete React
 
+
+</br>
+</br>
+
+### Day 6: January 1, 2021
+
+
+#### Happy New Year! Here's a shot from my coding session this morning.
+<img src="https://pbs.twimg.com/media/EqplVrFWMAAgWQ9?format=jpg&name=large" width=75%><br/>
+
+**:white_check_mark:Today's Progress**: 
+1. Practiced debugging sample real-life problems with the console and using breakingpoints.
+2. Learned the power of console.table().
+
+**:thought_balloon:Thoughts:**</br> 
+1. I look forward to reviewing CSS this weekend and start learning Bootstrap next week.
+
+**:calendar:Short-term plan:**</br> 
+1. Morning: Finish advanced javaScript with Jonas Schmedtmann 
+    1. "Debugging with the Console and Breakpoints"
+1. Evening: Review CSS with Angela Yu
+
+<!-- **:spiral_calendar:	Long-term plan:**</br> 
+1. By February 15, 2021
+    1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
+1. By March 31, 2021 
+    1. Wes Bos's JavaScript 30 Challenge
+    1. B. Traversy's 20 Web Projects with Vanilla JavaScript
+    1. Neagoie's JavaScript Web Projects
+1. By April 15, 2021
+    1. Complete React-->
+
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
 
