@@ -168,6 +168,32 @@
 1. By April 15, 2021
     1. Complete React-->
 
+
+</br>
+</br>
+
+### Day 7: January 2, 2021
+
+**:white_check_mark:Today's Progress**
+1. Finished J. Schmedtmann's Developer Skills module and its coding challenge.
+
+**:thought_balloon:Thoughts:**</br> 
+1. I keep hearing about (good things) Tailwinds CSS. Is this another frame work I need to learn?
+
+**:calendar:Short-term plan:**</br> 
+1. Upcoming week: 
+    1. Morning :arrow_right: JavaScript: Start DOM and Events Fundamentals with J. Schmedtmann
+    1. CSS :arrow_right: Advanced CSS and Sass with J. Schmedtmann
+
+<!-- **:spiral_calendar:	Long-term plan:**</br> 
+1. By February 15, 2021
+    1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
+1. By March 31, 2021 
+    1. Wes Bos's JavaScript 30 Challenge
+    1. B. Traversy's 20 Web Projects with Vanilla JavaScript
+    1. Neagoie's JavaScript Web Projects
+1. By April 15, 2021
+    1. Complete React-->
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
 
