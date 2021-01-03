@@ -176,9 +176,12 @@
 
 **:white_check_mark:Today's Progress**
 1. Finished J. Schmedtmann's Developer Skills module and its coding challenge.
+1. Took 8 "very easy" challenges on [Edabit](https://edabit.com/).
+    1. So far I've earned 40XP.
 
 **:thought_balloon:Thoughts:**</br> 
 1. I keep hearing about (good things) Tailwinds CSS. Is this another frame work I need to learn?
+1. Edabit.com is a great way to test my javaScript knowledge--it's something different :+1:
 
 **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
