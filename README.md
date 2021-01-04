@@ -176,7 +176,7 @@
 
 **:white_check_mark:Today's Progress**
 1. Finished J. Schmedtmann's Developer Skills module and its coding challenge.
-1. Took 8 "very easy" challenges on [Edabit](https://edabit.com/).
+1. Took 8 beginner-level JavaScript challenges on [Edabit](https://edabit.com/).
     1. So far I've earned 40XP.
 
 **:thought_balloon:Thoughts:**</br> 
@@ -208,9 +208,11 @@
     1. Topics covered- .querySelector(), .textContent, .value, Event Listener & Event Handler
     1. Started the project #1, Guess My Number?, that incorporates basic DOM manipulations.
 1. Reviewed Intro to CSS (7 modules) with Angela Yu.
+1. Took 7 beginner-level challenges on Edabit.
 
 **:thought_balloon:Thoughts:**</br> 
 1. I'm still not a 100% confident about the topics I learned today--I may need to revisit tomorrow morning.
+1. Edabit.com turned out to be a membership-based site. I most likely won't be continuing with its challenges.
 
 **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
