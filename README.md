@@ -221,6 +221,30 @@
         1. Intermediate CSS with Angela Yu
         1. Advanced CSS and Sass with J. Schmedtmann
 
+</br>
+</br>
+
+### Day 9: January 4, 2021
+
+**:white_check_mark:Today's Progress**
+1. Continued working on the Guess My Number game.
+    1. Implemented the game logic
+        1. define the secret number
+        1. compare secret number to the user input
+        1. a functioning score board
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I feel more confident about the topics I've learned so far--a lot more than I did yesterday.
+1. The JS code is totally not DRY--lots of duplicated codes as of now. I will need to clean it up.
+
+
+**:calendar:Short-term plan:**</br> 
+1. Upcoming week: 
+    1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
+    1. Evening :arrow_down: 
+        1. Intermediate CSS with Angela Yu
+        1. Advanced CSS and Sass with J. Schmedtmann
+
 <!-- **:spiral_calendar:	Long-term plan:**</br> 
 1. By February 15, 2021
     1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
