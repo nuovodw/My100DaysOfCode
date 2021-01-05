@@ -144,7 +144,8 @@
 
 
 #### Happy New Year! Here's a shot from my coding session this morning.
-<img src="https://pbs.twimg.com/media/EqplVrFWMAAgWQ9?format=jpg&name=large" width=75%><br/>
+<img src="https://pbs.twimg.com/media/EqplVrFWMAAgWQ9?format=jpg&name=large" width=35%><br/>
+(click me)
 
 **:white_check_mark:Today's Progress**: 
 1. Practiced debugging sample real-life problems with the console and using breakingpoints.
