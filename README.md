@@ -232,10 +232,14 @@
         1. define the secret number
         1. compare secret number to the user input
         1. a functioning score board
+1. Started Intermediate CSS with Angela Yu.
+    1. Started working on my personal website
+    1. Reviewed: Favicons and Box Model
     
 **:thought_balloon:Thoughts:**</br> 
 1. I feel more confident about the topics I've learned so far--a lot more than I did yesterday.
 1. The JS code is totally not DRY--lots of duplicated codes as of now. I will need to clean it up.
+1. I think the Intermediate CSS will take at least a week to complete.
 
 
 **:calendar:Short-term plan:**</br> 
@@ -243,7 +247,7 @@
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
     1. Evening :arrow_down: 
         1. Intermediate CSS with Angela Yu
-        1. Advanced CSS and Sass with J. Schmedtmann
+        1. (Advanced CSS and Sass with J. Schmedtmann)
 
 <!-- **:spiral_calendar:	Long-term plan:**</br> 
 1. By February 15, 2021
