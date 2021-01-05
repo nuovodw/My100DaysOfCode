@@ -250,6 +250,34 @@
         1. Intermediate CSS with Angela Yu
         1. (Advanced CSS and Sass with J. Schmedtmann)
 
+
+</br>
+</br>
+
+### Day 10: January 5, 2021
+
+**:white_check_mark:Today's Progress**
+1. Continued working on the Guess My Number game.
+    1. Manipulated CSS Styles
+        1. When a winning number is chosen:
+            1. Background color and box width change.
+    1. :heavy_check_mark:Code challenge #1: Reset the game with the "again" button 
+        
+1. Started Intermediate CSS with Angela Yu.
+    1. Started working on my personal website
+    1. Reviewed: Favicons and Box Model
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I was happy to have completed the code challege with no major issues.
+
+
+**:calendar:Short-term plan:**</br> 
+1. Upcoming week: 
+    1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
+    1. Evening :arrow_down: 
+        1. Intermediate CSS with Angela Yu
+        1. (Advanced CSS and Sass with J. Schmedtmann)
+
 <!-- **:spiral_calendar:	Long-term plan:**</br> 
 1. By February 15, 2021
     1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
