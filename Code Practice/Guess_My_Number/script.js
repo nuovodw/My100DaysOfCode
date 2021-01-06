@@ -15,6 +15,9 @@ let secretNumber = Math.trunc(Math.random() * 20 + 1);
 //set the starting score
 let score = 20; //score is called *State Variable*; it's part of the application's *state*.
 
+//set the starting highscore
+let highscore = 0;
+
 // listen to event
 document.querySelector('.check').addEventListener('click', function () {
   const guess = Number(document.querySelector('.guess').value);
@@ -38,6 +41,12 @@ document.querySelector('.check').addEventListener('click', function () {
 
     //Box length doubles (to 30 rem)
     document.querySelector('.number').style.width = '30rem';
+
+    //Set the new high score
+    if (score > highscore) {
+      highscore = score;
+      document.querySelector('.highscore').textContent = highscore;
+    }
 
     //If the guessed number is too high
   } else if (guess > secretNumber) {
