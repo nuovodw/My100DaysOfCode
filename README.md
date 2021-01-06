@@ -261,14 +261,15 @@
     1. Manipulated CSS Styles
         1. When a winning number is chosen:
             1. Background color and box width change.
-    1. :heavy_check_mark:Code challenge #1: Reset the game with the "again" button 
-        
-1. Started Intermediate CSS with Angela Yu.
-    1. Started working on my personal website
-    1. Reviewed: Favicons and Box Model
+    1. :heavy_check_mark:Code challenge #1: Reset the game with the "again" button
+1. Intermediate CSS with Angela Yu ▶ Project "My Website"
+    1. CSS Display and Property
+    1. CSS Static and Relative Positioning
+    1. Absolute Positioning
+
     
 **:thought_balloon:Thoughts:**</br> 
-1. I was happy to have completed the code challege with no major issues.
+1. I was happy to have completed the code challege with no major difficulties.
 
 
 **:calendar:Short-term plan:**</br> 
