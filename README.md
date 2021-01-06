@@ -266,6 +266,7 @@
     1. CSS Display and Property
     1. CSS Static and Relative Positioning
     1. Absolute Positioning
+    1. Centering Elements
 
     
 **:thought_balloon:Thoughts:**</br> 
