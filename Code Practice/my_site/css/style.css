@@ -4,14 +4,18 @@
 
 body {
 	margin: 0;
+	text-align: center; /* Centering everthing in the body*/
 }
 /* color palette: https://colorhunt.co/palette/212984 */
 
 h1 {
-	margin-top: 0;
+	margin: 0;
 }
+
 .top-container {
 	background-color: #f1f6f9;
+	position: relative;
+	padding-top: 100px;
 }
 
 .middle-container {
@@ -29,4 +33,15 @@ h1 {
 
 .pro {
 	text-decoration: underline;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 180px;
+}
+
+.top-cloud {
+	position: absolute;
+	top: 50px;
+	right: 150px;
 }
