@@ -2,15 +2,13 @@
 /*
 console.log(document.querySelector('.message').textContent);
 document.querySelector('.message').textContent = '🎉Correct Number';
-
 document.querySelector('.number').textContent = 13;
 document.querySelector('.score').textContent = 10;
-
 document.querySelector('.guess').value = 23;
 console.log(document.querySelector('.guess').value);
 */
 // Define the secret number
-let secretNumber = Math.trunc(Math.random() * 20 + 1);
+let secretNumber = Math.trunc(Math.random() * 20) + 1;
 
 //set the starting score
 let score = 20; //score is called *State Variable*; it's part of the application's *state*.
@@ -75,10 +73,12 @@ document.querySelector('.check').addEventListener('click', function () {
 
 //Play again --> reset everything
 document.querySelector('.again').addEventListener('click', function () {
+  score = 20;
+  secretNumber = Math.trunc(Math.random() * 20) + 1;
   document.querySelector('.message').textContent = 'Start guessing...';
-  document.querySelector('.score').textContent = 20;
+  document.querySelector('.score').textContent = score;
   document.querySelector('.number').textContent = '?';
+  document.querySelector('.guess').value = '';
   document.querySelector('body').style.backgroundColor = '#222';
   document.querySelector('.number').style.width = '15rem';
-  document.querySelector('.guess').value = '';
 });
