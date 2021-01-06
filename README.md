@@ -228,7 +228,7 @@
 ### Day 9: January 4, 2021
 
 **:white_check_mark:Today's Progress**
-1. Continued working on the Guess My Number game.
+1. Continued working on the Guess the Number game.
     1. Implemented the game logic
         1. define the secret number
         1. compare secret number to the user input
@@ -257,7 +257,7 @@
 ### Day 10: January 5, 2021
 
 **:white_check_mark:Today's Progress**
-1. Continued working on the Guess My Number game.
+1. Continued working on the Guess the Number game.
     1. Manipulated CSS Styles
         1. When a winning number is chosen:
             1. Background color and box width change.
@@ -280,7 +280,32 @@
         1. Intermediate CSS with Angela Yu
         1. (Advanced CSS and Sass with J. Schmedtmann)
 
-<!-- **:spiral_calendar:	Long-term plan:**</br> 
+</br>
+</br>
+
+### Day 11: January 6, 2021
+
+**:white_check_mark:Today's Progress**
+1. Finished my 1st Guided-DOM manipulation-project, Guess the Number game.
+1. Intermediate CSS with Angela Yu ▶ Project "My Website"
+    1. CSS Display and Property
+    1. CSS Static and Relative Positioning
+    1. Absolute Positioning
+    1. Centering Elements
+
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I may be able to create my own guessing-number game from scratch?!🤔
+1. This journal is getting lengthy, so I'll be recording my short-term/long-term goals once a week from now on.
+
+
+<!-- **:calendar:Short-term plan:**</br> 
+1. Upcoming week: 
+    1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
+    1. Evening :arrow_down: 
+        1. Intermediate CSS with Angela Yu
+        1. (Advanced CSS and Sass with J. Schmedtmann)
+**:spiral_calendar:	Long-term plan:**</br> 
 1. By February 15, 2021
     1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
 1. By March 31, 2021 
@@ -288,7 +313,8 @@
     1. B. Traversy's 20 Web Projects with Vanilla JavaScript
     1. Neagoie's JavaScript Web Projects
 1. By April 15, 2021
-    1. Complete React-->
+    1. Complete React -->
+    
 <!-- FOR REFERENCE ON HOW TO USE GITHUB MARKDOWN
 //**Link to work:** [Calculator App](http://www.example.com) 
 
