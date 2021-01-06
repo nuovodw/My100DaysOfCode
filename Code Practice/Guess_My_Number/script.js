@@ -46,22 +46,11 @@ document.querySelector('.check').addEventListener('click', function () {
       document.querySelector('.highscore').textContent = highscore;
     }
 
-    //If the guessed number is too high
-  } else if (guess > secretNumber) {
-    //When score hits 0, function returns "0" with "You lose"
+    //If the guessed number is wrong
+  } else if (guess !== secretNumber) {
     if (score > 1) {
-      document.querySelector('.message').textContent = 'Too high!😞';
-      score--; //if number is incorrect, lose a point
-      document.querySelector('.score').textContent = score; //new score
-    } else {
-      document.querySelector('.message').textContent = '👎You lose';
-      document.querySelector('.score').textContent = 0;
-    }
-
-    //If the guessed number is too low
-  } else if (guess < secretNumber) {
-    if (score > 1) {
-      document.querySelector('.message').textContent = 'Too low!😞';
+      document.querySelector('.message').textContent =
+        guess > secretNumber ? 'Too high!😞' : 'Too low!😞';
       score--; //if number is incorrect, lose a point
       document.querySelector('.score').textContent = score; //new score
     } else {
@@ -69,6 +58,30 @@ document.querySelector('.check').addEventListener('click', function () {
       document.querySelector('.score').textContent = 0;
     }
   }
+
+  // //If the guessed number is too high
+  // else if (guess > secretNumber) {
+  //   //When score hits 0, function returns "0" with "You lose"
+  //   if (score > 1) {
+  //     document.querySelector('.message').textContent = 'Too high!😞';
+  //     score--; //if number is incorrect, lose a point
+  //     document.querySelector('.score').textContent = score; //new score
+  //   } else {
+  //     document.querySelector('.message').textContent = '👎You lose';
+  //     document.querySelector('.score').textContent = 0;
+  //   }
+
+  //   //If the guessed number is too low
+  // } else if (guess < secretNumber) {
+  //   if (score > 1) {
+  //     document.querySelector('.message').textContent = 'Too low!😞';
+  //     score--; //if number is incorrect, lose a point
+  //     document.querySelector('.score').textContent = score; //new score
+  //   } else {
+  //     document.querySelector('.message').textContent = '👎You lose';
+  //     document.querySelector('.score').textContent = 0;
+  //   }
+  // }
 });
 
 //Play again --> reset everything
