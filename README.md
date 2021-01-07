@@ -295,6 +295,20 @@
 1. This journal is getting lengthy, so I'll be recording my short-term/long-term goals once a week from now on.
 1. I started to track my time using the Toggl tracker:stopwatch:
 
+</br>
+</br>
+
+### Day 12: January 7, 2021
+
+**:white_check_mark:Today's Progress**
+1. Started my **FIRST** project from scratch this morning! I'm doing my own version of Guess the Number game.
+    1. html and javaScript are pretty much done. Just need to style it now.
+1. More intermediate CSS with Angela Yu ▶ Project "My Website"
+    1. Font styling & sizing.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I'm liking the time tracker so far.
+
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
