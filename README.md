@@ -287,16 +287,13 @@
 
 **:white_check_mark:Today's Progress**
 1. Finished my 1st Guided-DOM manipulation-project, Guess the Number game.
-1. Intermediate CSS with Angela Yu ▶ Project "My Website"
-    1. CSS Display and Property
-    1. CSS Static and Relative Positioning
-    1. Absolute Positioning
-    1. Centering Elements
-
+1. More intermediate CSS with Angela Yu ▶ Project "My Website"
+    1. Font styling & sizing.
     
 **:thought_balloon:Thoughts:**</br> 
 1. I may be able to create my own guessing-number game from scratch?!🤔
 1. This journal is getting lengthy, so I'll be recording my short-term/long-term goals once a week from now on.
+1. I started to track my time using the Toggl tracker:stopwatch:
 
 
 <!-- **:calendar:Short-term plan:**</br> 
