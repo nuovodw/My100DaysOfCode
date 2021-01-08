@@ -303,8 +303,7 @@
 **:white_check_mark:Today's Progress**
 1. Started my **FIRST** project from scratch this morning! I'm doing my own version of Guess the Number game.
     1. html and javaScript are pretty much done. Just need to style it now.
-1. More intermediate CSS with Angela Yu ▶ Project "My Website"
-    1. Font styling & sizing.
+1. Continued intermediate CSS with Angela Yu ▶ Project "My Website"
     
 **:thought_balloon:Thoughts:**</br> 
 1. I'm liking the time tracker so far.
