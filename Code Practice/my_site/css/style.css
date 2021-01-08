@@ -5,11 +5,34 @@
 body {
 	margin: 0;
 	text-align: center; /* Centering everthing in the body*/
+	font-family: 'Merriweather', serif;
 }
 /* color palette: https://colorhunt.co/palette/212984 */
 
 h1 {
-	margin: 0;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	margin: 50px auto 0 auto;
+	color: #66bfbf;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+	margin-top: 0;
+	font-weight: normal;
+	/* line-height: 2; */
+	color: #66bfbf;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: #11999e;
+}
+
+.desktop {
+	display: inline-block;
+	width: 200px;
 }
 
 .top-container {
@@ -19,16 +42,24 @@ h1 {
 }
 
 .middle-container {
-	background-color: orange;
-	margin: 10px 0 0;
-	width: 200px;
-	height: 200px;
+}
+
+.middle-container img {
+	width: 40%;
 }
 
 .bottom-container {
-	background-color: lightblue;
-	width: 200px;
-	height: 200px;
+}
+
+.bottom-container img {
+	width: 40%;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
 }
 
 .pro {
