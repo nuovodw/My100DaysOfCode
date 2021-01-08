@@ -309,6 +309,19 @@
 1. I'm liking the time tracker so far.
 
 
+</br>
+</br>
+
+### Day 13: January 8, 2021
+
+**:white_check_mark:Today's Progress**
+1. Created Modal Window progam with Jonas S. 
+1. Continued intermediate CSS with Angela Yu ▶ Project "My Website"
+    
+**:thought_balloon:Thoughts:**</br> 
+1. Next, I'll attempt to recreate the Modal Window project from scratch.
+
+
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
@@ -340,25 +353,8 @@ __This will also be bold__
 
 _You **can** combine them_
 
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
 Strikethrough
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
-
-### Day 1: June 27, Monday
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
