@@ -323,6 +323,18 @@
 1. Next, I'll attempt to recreate the Modal Window project from scratch.
 
 
+</br>
+</br>
+
+### Day 14: January 9, 2021
+
+**:white_check_mark:Today's Progress**
+1. Created my own javaScript (and a little bit of CSS) for the Modal Window project.
+    1. Still need to make it DRY.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. It felt good to be able to remember most of what I learned yesterday.
+
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
