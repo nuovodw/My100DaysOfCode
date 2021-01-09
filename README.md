@@ -317,6 +317,7 @@
 **:white_check_mark:Today's Progress**
 1. Created Modal Window progam with Jonas S. 
 1. Continued intermediate CSS with Angela Yu ▶ Project "My Website"
+    1. Float and clear
     
 **:thought_balloon:Thoughts:**</br> 
 1. Next, I'll attempt to recreate the Modal Window project from scratch.
