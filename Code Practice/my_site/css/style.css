@@ -14,6 +14,7 @@ h1 {
 	font-size: 5.625rem;
 	margin: 50px auto 0 auto;
 	color: #66bfbf;
+	width: 50%;
 }
 
 h2 {
@@ -45,15 +46,15 @@ h3 {
 }
 
 .middle-container img {
-	width: 40%;
+	width: 20%;
 }
 
 .bottom-container {
 }
 
-.bottom-container img {
-	width: 40%;
-}
+/* .bottom-container img {
+	width: 25%;
+} */
 
 .skill-row {
 	width: 50%;
@@ -76,3 +77,23 @@ h3 {
 	top: 50px;
 	right: 150px;
 }
+
+.desktop {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.clarinet {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+/* .dev-bio {
+	clear: left;
+}
+
+.music-bio {
+	clear: right;
+} */
