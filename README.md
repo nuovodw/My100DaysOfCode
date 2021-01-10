@@ -338,6 +338,18 @@
     1. I'll need to review tomorrow morning to reinforce today's lesson.
 1. Look forward to learning Bootstrap starting tomorrow.
 
+</br>
+</br>
+
+### Day 15: January 10, 2021
+
+**:white_check_mark:Today's Progress**
+1. Started a new project, Pig Game, with Jonas S. and got throught the first two modules.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. There's lots of information in Jonas's lectures today--I am going to attempt to recreate what I've learned from scratch before moving on to the next lesson. (fingers crossed)
+
+
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
