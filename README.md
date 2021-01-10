@@ -331,10 +331,12 @@
 **:white_check_mark:Today's Progress**
 1. Created my own javaScript (and a little bit of CSS) for the Modal Window project.
     1. added "exit window by pressing 'escape' key function.
+1. Finished "My Website" project with Angela Yu.
     
 **:thought_balloon:Thoughts:**</br> 
 1. It felt good to be able to remember most of what I learned yesterday.
     1. I'll need to review tomorrow morning to reinforce today's lesson.
+1. Look forward to learning Bootstrap starting tomorrow.
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
