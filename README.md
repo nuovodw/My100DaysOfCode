@@ -349,6 +349,36 @@
 **:thought_balloon:Thoughts:**</br> 
 1. There's lots of information in Jonas's lectures today--I am going to attempt to recreate what I've learned from scratch before moving on to the next lesson. (fingers crossed)
 
+</br>
+</br>
+
+### Day 16: January 11, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Pig Game
+    1. Reviewed and recreated codes from the two modules from yesterday.
+    1. Studied a new module and coded "switch players".
+1. CSS with Angela Y
+    1. Started the Bootstrap lecture and learned how to install, as well as wireframing.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I'm getting the hang of JavaScript, althought it's getting more difficult.
+
+**:calendar:Short-term plan:**</br> 
+1. Upcoming week: 
+    1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #3 (Pig Game) with J. Schmedtmann
+    1. Evening :arrow_down: 
+        1. Bootstrap with Angela Yu
+ 
+ **:spiral_calendar:	Long-term plan:**</br> 
+1. By February 15, 2021
+    1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
+1. By March 31, 2021 
+    1. Wes Bos's JavaScript 30 Challenge
+    1. B. Traversy's 20 Web Projects with Vanilla JavaScript
+    1. Neagoie's JavaScript Web Projects
+1. By April 15, 2021
+    1. Complete React
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
