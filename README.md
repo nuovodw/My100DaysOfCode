@@ -380,6 +380,22 @@
 1. By April 15, 2021
     1. Complete React
 
+</br>
+</br>
+
+### Day 17: January 12, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Pig Game
+    1. Finished 3rd module and recoded on my own. 
+    2. Created code to switch players, change background using toggle(), and reset the current score to 0.
+1. CSS with Angela Y
+    
+**:thought_balloon:Thoughts:**</br> 
+1. Pig Game: Tomorrow, before I move on to the next module, I'll need to revisit what I've learned so far and see if can code it from scratch.
+    1. Lots of new, challenging, concepts!
+
+
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
