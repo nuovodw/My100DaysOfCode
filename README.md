@@ -362,7 +362,7 @@
     1. Started the Bootstrap lecture and learned how to install, as well as wireframing.
     
 **:thought_balloon:Thoughts:**</br> 
-1. I'm getting the hang of JavaScript, althought it's getting more difficult.
+1. I think I'll need to take some time to really learn Git and Github soon.
 
 **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
