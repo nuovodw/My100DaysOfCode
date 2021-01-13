@@ -396,6 +396,20 @@
 1. Pig Game: Tomorrow, before I move on to the next module, I'll need to revisit what I've learned so far and see if can code it from scratch.
     1. Lots of new, challenging, concepts!
 
+</br>
+</br>
+
+### Day 18: January 13, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Pig Game
+    1. Finished 4th module and began recoding it on my own.
+    2. Hold the score, display the total current score, and switch over to next player; unless one hits 100, in which case it's the winner
+1. CSS with Angela Y
+    
+**:thought_balloon:Thoughts:**</br> 
+1. Pig Game: I'm stuck on recoding what I've learned today; I'll try again tomorrow morning.
+
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
