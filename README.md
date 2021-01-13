@@ -390,6 +390,7 @@
     1. Finished 3rd module and recoded on my own. 
     2. Created code to switch players, change background using toggle(), and reset the current score to 0.
 1. CSS with Angela Y
+    1. Bootstrap Nav Bar
     
 **:thought_balloon:Thoughts:**</br> 
 1. Pig Game: Tomorrow, before I move on to the next module, I'll need to revisit what I've learned so far and see if can code it from scratch.
