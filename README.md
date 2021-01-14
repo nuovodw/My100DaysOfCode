@@ -405,10 +405,23 @@
 1. JavaScript with Jonas S: Pig Game
     1. Finished 4th module and began recoding it on my own.
     2. Hold the score, display the total current score, and switch over to next player; unless one hits 100, in which case it's the winner
-1. CSS with Angela Y
+1. No coding in the evening 😞
     
 **:thought_balloon:Thoughts:**</br> 
 1. Pig Game: I'm stuck on recoding what I've learned today; I'll try again tomorrow morning.
+
+</br>
+
+### Day 19: January 14, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Pig Game
+    1. Succesfully recreated the 4th module from scrach on my own.
+    1. Currently in the middle of taking the code challenge to reset the entire game by pressing the reset button.
+1. CSS with Angela Y
+    
+**:thought_balloon:Thoughts:**</br> 
+1. Pig Game: I'm getting so close to the end of builing this game!
 
 
 <!-- **:calendar:Short-term plan:**</br> 
