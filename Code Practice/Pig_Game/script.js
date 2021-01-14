@@ -80,3 +80,21 @@ btnHold.addEventListener('click', function () {
     }
   }
 });
+
+//Resetting the game
+//1. press the reset button
+btnNew.addEventListener('click', function () {
+  //FIGURE OUT HOW TO SWTICH ACTIVE PLAYER TO 0////
+  //activePlayer = 0; /////
+  currentScore = 0;
+  //3. remove player--winner status
+  player0El.classList.remove('player--winner');
+  player1El.classList.remove('player--winner');
+  //Starting conditions
+  score0El.textContent = 0;
+  score1El.textContent = 0;
+  current0El.textContent = 0;
+  current1El.textContent = 0;
+  diceEl.classList.add('hidden'); //Hide the die
+  //4. change background color to original colors
+});
