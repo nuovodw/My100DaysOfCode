@@ -419,9 +419,11 @@
     1. Succesfully recreated the 4th module from scrach on my own.
     1. Currently in the middle of taking the code challenge to reset the entire game by pressing the reset button.
 1. CSS with Angela Y
+    1. Bootstrap 4 Grid layout System Intro
     
 **:thought_balloon:Thoughts:**</br> 
 1. Pig Game: I'm getting so close to the end of builing this game!
+
 
 
 <!-- **:calendar:Short-term plan:**</br> 
