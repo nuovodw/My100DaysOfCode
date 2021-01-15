@@ -23,12 +23,7 @@
 1. Start Andrei Neagoie's JavaScript and study through the Intermediate section.
 1. Start Angela Yu's CSS
 
-</br>
-</br>
-
 ### Day 2: December 28, 2020
-<!-- ##### (delete me or comment me out)-->
-
 **Today's Progress**: 
 1. Started working on the Fibonacci sequence challenge.
 1. (3 hours later) I solved it!!
@@ -43,9 +38,6 @@
 **Short-term plan:**</br> 
 1. Finish the Fibonacci challenge by the end of the day!
 1. Revisit CSS, as I haven't done it in a few days.
-
-
-</br>
 </br>
 
 ### Day 3: December 29, 2020
@@ -68,9 +60,6 @@
 1. Jump into Schmedtmann's advanced JS lectures.
     1. I'm looking forward to learning DOM manipulation.
 1. Revisit CSS, as I haven't done it in a few days.
-
-
-</br>
 </br>
 
 ### Day 4: December 30, 2020
@@ -90,9 +79,6 @@
 1. Jump into Schmedtmann's advanced JS lectures.
     1. I'm looking forward to learning DOM manipulation.
 1. Revisit CSS, as I haven't done it in a few days.
-
-
-</br>
 </br>
 
 ### Day 5: December 31, 2020 
@@ -135,9 +121,6 @@
     1. Neagoie's JavaScript Web Projects
 1. By April 15, 2021
     1. Complete React
-
-
-</br>
 </br>
 
 ### Day 6: January 1, 2021
@@ -168,9 +151,6 @@
     1. Neagoie's JavaScript Web Projects
 1. By April 15, 2021
     1. Complete React-->
-
-
-</br>
 </br>
 
 ### Day 7: January 2, 2021
@@ -198,8 +178,6 @@
     1. Neagoie's JavaScript Web Projects
 1. By April 15, 2021
     1. Complete React-->
-
-</br>
 </br>
 
 ### Day 8: January 3, 2021
@@ -221,8 +199,6 @@
     1. Evening :arrow_down: 
         1. Intermediate CSS with Angela Yu
         1. Advanced CSS and Sass with J. Schmedtmann
-
-</br>
 </br>
 
 ### Day 9: January 4, 2021
@@ -249,9 +225,6 @@
     1. Evening :arrow_down: 
         1. Intermediate CSS with Angela Yu
         1. (Advanced CSS and Sass with J. Schmedtmann)
-
-
-</br>
 </br>
 
 ### Day 10: January 5, 2021
@@ -279,8 +252,6 @@
     1. Evening :arrow_down: 
         1. Intermediate CSS with Angela Yu
         1. (Advanced CSS and Sass with J. Schmedtmann)
-
-</br>
 </br>
 
 ### Day 11: January 6, 2021
@@ -294,8 +265,6 @@
 1. I may be able to create my own guessing-number game from scratch?!🤔
 1. This journal is getting lengthy, so I'll be recording my short-term/long-term goals once a week from now on.
 1. I started to track my time using the Toggl tracker:stopwatch:
-
-</br>
 </br>
 
 ### Day 12: January 7, 2021
@@ -307,9 +276,6 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. I'm liking the time tracker so far.
-
-
-</br>
 </br>
 
 ### Day 13: January 8, 2021
@@ -321,9 +287,6 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. Next, I'll attempt to recreate the Modal Window project from scratch.
-
-
-</br>
 </br>
 
 ### Day 14: January 9, 2021
@@ -337,8 +300,6 @@
 1. It felt good to be able to remember most of what I learned yesterday.
     1. I'll need to review tomorrow morning to reinforce today's lesson.
 1. Look forward to learning Bootstrap starting tomorrow.
-
-</br>
 </br>
 
 ### Day 15: January 10, 2021
@@ -348,8 +309,6 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. There's lots of information in Jonas's lectures today--I am going to attempt to recreate what I've learned from scratch before moving on to the next lesson. (fingers crossed)
-
-</br>
 </br>
 
 ### Day 16: January 11, 2021
@@ -379,8 +338,6 @@
     1. Neagoie's JavaScript Web Projects
 1. By April 15, 2021
     1. Complete React
-
-</br>
 </br>
 
 ### Day 17: January 12, 2021
@@ -395,8 +352,6 @@
 **:thought_balloon:Thoughts:**</br> 
 1. Pig Game: Tomorrow, before I move on to the next module, I'll need to revisit what I've learned so far and see if can code it from scratch.
     1. Lots of new, challenging, concepts!
-
-</br>
 </br>
 
 ### Day 18: January 13, 2021
@@ -409,7 +364,6 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. Pig Game: I'm stuck on recoding what I've learned today; I'll try again tomorrow morning.
-
 </br>
 
 ### Day 19: January 14, 2021
@@ -423,8 +377,19 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. Pig Game: I'm getting so close to the end of builing this game!
+</br>
 
+### Day 20: January 15, 2021
 
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Pig Game
+    1. Completed the "reset the game" challenge.
+    1. Finished the DOM-Manipulations section of the course.
+1. CSS with Angela Y
+    
+**:thought_balloon:Thoughts:**</br> 
+1. By finishing the DOM-manipulation seciton, I've completed the entire fundamentals of JavaScript section of the course.
+    1. Super excited the study JavaScript "under the hood".
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
