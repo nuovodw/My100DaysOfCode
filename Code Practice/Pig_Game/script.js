@@ -1,7 +1,7 @@
 'use strict';
 //Selecting elements
-const player0E1 = document.querySelector('.player--0');
-const player1E1 = document.querySelector('.player--1');
+const player0El = document.querySelector('.player--0');
+const player1El = document.querySelector('.player--1');
 const score0El = document.querySelector('#score--0');
 const score1El = document.getElementById('score--1');
 const diceEl = document.querySelector('.dice');
@@ -16,15 +16,16 @@ const switchPlayer = function () {
   activePlayer = activePlayer === 0 ? 1 : 0; //if the active player is player 0, then we want the new active player to be player 1; else it should be player 0
 
   //switch background color by toggling the .player--acive class
-  player0E1.classList.toggle('player--active');
-  player1E1.classList.toggle('player--active');
+  player0El.classList.toggle('player--active');
+  player1El.classList.toggle('player--active');
 };
+
 //Starting conditions
 score0El.textContent = 0;
 score1El.textContent = 0;
 diceEl.classList.add('hidden'); //Hide the die
 
-const scores = [0, 0]; //store the scores as they get added
+let scores = [0, 0]; //store the scores as they get added
 let currentScore = 0; //cannot be inside the function; otherwise it would be set to 0 when we reset
 let activePlayer = 0; //0 identifies player 1; 1 identifies player 2
 let playing = true;
@@ -84,17 +85,17 @@ btnHold.addEventListener('click', function () {
 //Resetting the game
 //1. press the reset button
 btnNew.addEventListener('click', function () {
-  //FIGURE OUT HOW TO SWTICH ACTIVE PLAYER TO 0////
-  //activePlayer = 0; /////
+  playing = true;
+  scores = [0, 0];
+  activePlayer = 0;
   currentScore = 0;
-  //3. remove player--winner status
-  player0El.classList.remove('player--winner');
-  player1El.classList.remove('player--winner');
-  //Starting conditions
   score0El.textContent = 0;
   score1El.textContent = 0;
   current0El.textContent = 0;
   current1El.textContent = 0;
+  player0El.classList.remove('player--winner');
+  player1El.classList.remove('player--winner');
+  player0El.classList.add('player--active');
+  player1El.classList.remove('player--active');
   diceEl.classList.add('hidden'); //Hide the die
-  //4. change background color to original colors
 });
