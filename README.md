@@ -391,6 +391,17 @@
 **:thought_balloon:Thoughts:**</br> 
 1. By finishing the DOM-manipulation seciton, I've completed the entire fundamentals of JavaScript section of the course.
     1. Super excited the study JavaScript "under the hood".
+</br>
+
+### Day 21: January 16, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S:
+1. CSS with Angela Y: Bootstrap 4
+    1. Finished Intro to Bootstrap and designed a landing page using vanilla CSS and Bootstrap 4.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I'm starting to feel more confident about finally being able to combine a decent looking HTML/CSS with JavaScript. 
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
