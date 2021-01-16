@@ -385,7 +385,8 @@
 1. JavaScript with Jonas S: Pig Game
     1. Completed the "reset the game" challenge.
     1. Finished the DOM-Manipulations section of the course.
-1. CSS with Angela Y
+1. CSS with Angela Y: Bootstrap 4
+    1. Grid Layout System continued
     
 **:thought_balloon:Thoughts:**</br> 
 1. By finishing the DOM-manipulation seciton, I've completed the entire fundamentals of JavaScript section of the course.
