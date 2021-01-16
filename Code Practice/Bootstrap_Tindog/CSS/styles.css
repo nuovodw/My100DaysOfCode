@@ -1,0 +1,97 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+	background-color: #ff4c68;
+	color: #fff;
+}
+
+.container-fluid {
+	/*customizing default Bootstrap*/
+	padding: 3% 15%;
+}
+
+/* title {
+  font-family: 'Ubuntu', sans-serif;
+} */
+
+h1 {
+	font-family: 'Montserrat';
+	font-weight: 900;
+	font-size: 3.5rem;
+	line-height: 1.5;
+}
+
+/* Features */
+#features {
+	font-size: 1.5rem;
+}
+
+#features p {
+	color: #8f8f8f;
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+/* .fa-bullseye,
+.fa-check-circle,
+.fa-heart {
+	font-size: 4rem;
+} */
+
+/* .fa-bullseye:hover,
+.fa-check-circle:hover,
+.fa-heart:hover {
+	color: #ff4c68;
+} */
+
+#features h3 {
+	font-weight: 900;
+	text-align: center;
+}
+
+#features div.col-lg-4 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.icon {
+	color: #ef8172;
+}
+
+.icon:hover {
+	color: #ff4c68;
+}
+
+/*Navigation Bar */
+.navbar {
+	padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+	font-family: 'ubuntu';
+	font-size: 2.4rem;
+	font-weight: bold;
+}
+
+.nav-item {
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+	font-weight: 400;
+}
+
+/* Download buttons */
+.download-button {
+	margin: 5% 3% 5% 0;
+}
+
+/* title image */
+#title img {
+	width: 60%;
+	transform: rotate(25deg);
+}
