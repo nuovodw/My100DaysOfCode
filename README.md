@@ -402,6 +402,19 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. I'm starting to feel more confident about finally being able to combine a decent looking HTML/CSS with JavaScript. 
+</br>
+
+### Day 22: January 17, 2021
+
+**:white_check_mark:Today's Progress**
+1. DOM Object Model with Angela Yu:
+    1. 
+1. CSS with Angela Yu: Intermediate Bootstrap 
+    1. 
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I will be reinforcing my DOM Manipulation skills in the next couple of weeks with Angela Yu's and Andrei N's courses.
+1. I will continue to be honing my CSS/Bootstrap skills, in the meantime, with Angela Yu's course.
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
