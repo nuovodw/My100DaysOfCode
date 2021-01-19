@@ -408,13 +408,38 @@
 
 **:white_check_mark:Today's Progress**
 1. DOM Object Model with Angela Yu:
-    1. 
-1. CSS with Angela Yu: Intermediate Bootstrap 
-    1. 
+    1. Reviewd the basics of the DOM
     
 **:thought_balloon:Thoughts:**</br> 
 1. I will be reinforcing my DOM Manipulation skills in the next couple of weeks with Angela Yu's and Andrei N's courses.
 1. I will continue to be honing my CSS/Bootstrap skills, in the meantime, with Angela Yu's course.
+</br>
+
+### Day 23: January 18, 2021
+
+**:white_check_mark:Today's Progress**
+1. DOM Object Model with Angela Yu:
+    1. Finished the DOM section and learned some new concepts that weren't covered in Jonas S's course
+        1. innerHTML, getElementsByTagName, querySelectorAll, getAttribute, setAttribute
+    
+**:thought_balloon:Thoughts:**</br> 
+1. Next I will be building The Dicee Game as a project.
+
+**:calendar:Short-term plan:**</br> 
+1. Upcoming week: 
+    1. Morning :arrow_right: JavaScript and DOM with Angela Yu and Andrei Neagoie 
+    1. Evening :arrow_down: 
+        1. More Bootstrap with Angela Yu
+ 
+ **:spiral_calendar:	Long-term plan:**</br> 
+1. By February 15, 2021
+    1. Complete all advanced javaScript courses, code challenges, and tests by the three instructors.
+1. By March 31, 2021 
+    1. Wes Bos's JavaScript 30 Challenge
+    1. B. Traversy's 20 Web Projects with Vanilla JavaScript
+    1. Neagoie's JavaScript Web Projects
+1. By April 15, 2021
+    1. Complete React
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
