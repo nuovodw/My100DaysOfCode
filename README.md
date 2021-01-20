@@ -440,6 +440,19 @@
     1. Neagoie's JavaScript Web Projects
 1. By April 15, 2021
     1. Complete React
+</br>
+
+### Day 24: January 19, 2021
+
+**:white_check_mark:Today's Progress**
+1. DOM Object Model with Angela Yu:
+    1. Completed the Dicee Game project.
+1. CSS with Angela Yu: Bootstrap 4
+    1. Started Intermediate Bootstrap and completed both modules on Carousel.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. 
+
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
