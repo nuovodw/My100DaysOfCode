@@ -452,6 +452,18 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. 
+</br>
+
+### Day 25: January 20, 2021
+
+**:white_check_mark:Today's Progress**
+1. Advanced JavaScript and DOM Manipulation with Angela Yu: Project DRUM KIT
+    1. Add EventListener | Higher order functions and passing functions as arguments | Play sounds on web site
+1. CSS with Angela Yu: Bootstrap 4
+    1. Started Intermediate Bootstrap and completed both modules on Carousel.
+    
+**:thought_balloon:Thoughts:**</br> 
+1. 
 
 
 <!-- **:calendar:Short-term plan:**</br> 
