@@ -460,10 +460,10 @@
 1. Advanced JavaScript and DOM Manipulation with Angela Yu: Project DRUM KIT
     1. Add EventListener | Higher order functions and passing functions as arguments | Play sounds on web site
 1. CSS with Angela Yu: Bootstrap 4
-    1. Started Intermediate Bootstrap and completed both modules on Carousel.
+    1. Bootstrap Cards
     
 **:thought_balloon:Thoughts:**</br> 
-1. 
+1. ---
 
 
 <!-- **:calendar:Short-term plan:**</br> 
