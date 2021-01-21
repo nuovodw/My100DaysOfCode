@@ -461,6 +461,7 @@
     1. Add EventListener | Higher order functions and passing functions as arguments | Play sounds on web site
 1. CSS with Angela Yu: Bootstrap 4
     1. Bootstrap Cards
+1. Started FreeCodeCamp Basic JavaScript
     
 **:thought_balloon:Thoughts:**</br> 
 1. ---
