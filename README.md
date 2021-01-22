@@ -472,11 +472,9 @@
 **:white_check_mark:Today's Progress**
 1. Advanced JavaScript and DOM Manipulation with Angela Yu: Project DRUM KIT
     1. Finished this project.
-1. CSS with Angela Yu: Bootstrap 4
 
-    
 **:thought_balloon:Thoughts:**</br> 
-1. 
+1. I'll be starting Andrei N's DOM Manipulation starting tomorrow.
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
