@@ -464,8 +464,19 @@
 1. Started FreeCodeCamp Basic JavaScript
     
 **:thought_balloon:Thoughts:**</br> 
-1. ---
 
+</br>
+
+### Day 26: January 21, 2021
+
+**:white_check_mark:Today's Progress**
+1. Advanced JavaScript and DOM Manipulation with Angela Yu: Project DRUM KIT
+    1. Finished this project.
+1. CSS with Angela Yu: Bootstrap 4
+
+    
+**:thought_balloon:Thoughts:**</br> 
+1. 
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
