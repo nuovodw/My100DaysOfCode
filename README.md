@@ -475,7 +475,6 @@
 
 **:thought_balloon:Thoughts:**
 1. I'll be starting Andrei N's DOM Manipulation starting tomorrow.
-</br> 
 </br>
 
 ### Day 27: January 22, 2021
@@ -484,7 +483,18 @@
 1. DOM Manipulation with Andrei Neagoie
     1. Started To-do list
 
+**:thought_balloon:Thoughts:**
+
+</br>
+
+### Day 28: January 23, 2021
+
+**:white_check_mark:Today's Progress**
+1. DOM Manipulation with Andrei Neagoie
+    1. Finished the To-do List
+
 **:thought_balloon:Thoughts:**</br> 
+1. I will be recreating the To-do List from scratch with CSS added.
 
 
 <!-- **:calendar:Short-term plan:**</br> 
