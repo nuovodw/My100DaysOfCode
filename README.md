@@ -473,8 +473,19 @@
 1. Advanced JavaScript and DOM Manipulation with Angela Yu: Project DRUM KIT
     1. Finished this project.
 
-**:thought_balloon:Thoughts:**</br> 
+**:thought_balloon:Thoughts:**
 1. I'll be starting Andrei N's DOM Manipulation starting tomorrow.
+</br> 
+</br>
+
+### Day 27: January 22, 2021
+
+**:white_check_mark:Today's Progress**
+1. DOM Manipulation with Andrei Neagoie
+    1. Started To-do list
+
+**:thought_balloon:Thoughts:**</br> 
+
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
