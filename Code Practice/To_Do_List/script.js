@@ -4,20 +4,29 @@
 const button = document.getElementById('enter');
 const input = document.getElementById('userinput');
 
-button.addEventListener('click', function () {
-	if (input.value.length > 0) {
-		const li = document.createElement('li');
-		li.appendChild(document.createTextNode(input.value));
-		document.querySelector('ul').appendChild(li);
-		input.value = ''; //clear the box
-	}
-});
+function inputLength() {
+	return input.value.length;
+}
 
-input.addEventListener('keydown', function (e) {
-	if (e.key === 'Enter' && input.value.length > 0) {
-		const li = document.createElement('li');
-		li.appendChild(document.createTextNode(input.value));
-		document.querySelector('ul').appendChild(li);
-		input.value = ''; //clear the box
+function createListElement() {
+	const li = document.createElement('li');
+	li.appendChild(document.createTextNode(input.value));
+	document.querySelector('ul').appendChild(li);
+	input.value = ''; //clear the box
+}
+
+function addListAfterClick() {
+	if (inputLength() > 0) {
+		createListElement();
 	}
-});
+}
+
+function addListAfterEnter(e) {
+	if (e.key === 'Enter' && inputLength() > 0) {
+		createListElement();
+	}
+}
+
+button.addEventListener('click', addListAfterClick);
+
+input.addEventListener('keydown', addListAfterEnter);
