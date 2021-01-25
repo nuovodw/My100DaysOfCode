@@ -495,6 +495,16 @@
 
 **:thought_balloon:Thoughts:**</br> 
 1. I will be recreating the To-do List from scratch with CSS added.
+</br>
+
+### Day 29: January 24, 2021
+
+**:white_check_mark:Today's Progress**
+1. CSS with Angela Yu: Bootstrap 4
+    1. Z-index and Stacking Order
+    
+**:thought_balloon:Thoughts:**</br> 
+
 
 
 <!-- **:calendar:Short-term plan:**</br> 
