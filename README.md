@@ -504,6 +504,20 @@
     1. Z-index and Stacking Order
     
 **:thought_balloon:Thoughts:**</br> 
+</br>
+
+### Day 30: January 25, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: How JavaScript works behind the scenes
+    1. JS Engine and Runtime
+    2. Execution Context and the Call Stack
+1. CSS with Angela Yu: Bootstrap 4
+    1. Media Queries and Bootstrap challenge #2
+    
+**:thought_balloon:Thoughts:**</br> 
+1. I need to start thinking about starting projects for my portfolio.
+
 
 
 
