@@ -517,6 +517,17 @@
     
 **:thought_balloon:Thoughts:**</br> 
 1. I need to start thinking about starting projects for my portfolio.
+</br>
+
+### Day 31: January 26, 2021
+
+**:white_check_mark:Today's Progress**
+1. CSS with Angela Yu: Bootstrap 4
+    1. Continue Bootstrap challenge #2
+    
+**:thought_balloon:Thoughts:**
+1. Didn't have enough time to study JavaScript today. Hopefully will do extra tomorrow.
+
 
 
 
