@@ -9,12 +9,8 @@ body {
 
 .container-fluid {
 	/*customizing default Bootstrap*/
-	padding: 3% 15%;
+	padding: 3% 15% 7%;
 }
-
-/* title {
-  font-family: 'Ubuntu', sans-serif;
-} */
 
 h1 {
 	font-family: 'Montserrat';
@@ -29,9 +25,20 @@ h2 {
 	font-size: 2.5rem;
 	line-height: 1.5;
 }
+
+/* title image */
+.title-image {
+	width: 25%;
+	transform: rotate(25deg);
+	position: absolute;
+}
+
 /* Features */
 #features {
-	font-size: 1.5rem;
+	/* font-size: 1.5rem; */
+	padding: 7% 5%;
+	background-color: white;
+	position: relative;
 }
 
 #features p {
@@ -39,18 +46,6 @@ h2 {
 	text-align: center;
 	font-size: 1.2rem;
 }
-
-/* .fa-bullseye,
-.fa-check-circle,
-.fa-heart {
-	font-size: 4rem;
-} */
-
-/* .fa-bullseye:hover,
-.fa-check-circle:hover,
-.fa-heart:hover {
-	color: #ff4c68;
-} */
 
 #features h3 {
 	font-weight: 900;
@@ -96,12 +91,6 @@ h2 {
 	margin: 5% 3% 5% 0;
 }
 
-/* title image */
-#title img {
-	width: 60%;
-	transform: rotate(25deg);
-}
-
 /* Testimonials */
 #testimonials {
 	text-align: center;
@@ -138,3 +127,48 @@ h2 {
 .pricing-column {
 	padding: 3% 2%;
 }
+
+/* Call to action */
+
+#cta {
+	font-family: 'Montserrat';
+	background-color: #ff4c68;
+	text-align: center;
+	padding: 7% 15%;
+}
+
+#cta h3 {
+	font-weight: 900;
+	color: #fff;
+	font-size: 2.5rem;
+}
+
+/* Footer */
+#footer {
+	text-align: center;
+	margin: 5%;
+	padding: 7% 15%;
+}
+
+.icon2 {
+	margin: 10px;
+	color: black;
+}
+
+.copyright {
+	color: rgb(167, 164, 164);
+}
+
+/* Mobile responsive*/
+
+@media (max-width: 991px) {
+	#title {
+		text-align: center;
+	}
+
+	.title-image {
+		position: static;
+		transform: rotate(0);
+		width: 60%;
+	}
+} ;
