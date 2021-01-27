@@ -33,13 +33,14 @@
 			src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"
 		></script>
 	</head>
+
 	<body>
 		<section id="title">
 			<div class="container-fluid">
 				<!-- Nav Bar -->
 				<nav class="navbar navbar-expand-lg navbar-dark">
 					<a class="navbar-brand" href="">tindog</a>
-					<button
+					<!-- <button
 						class="navbar-toggler"
 						type="button"
 						data-bs-toggle="collapse"
@@ -47,13 +48,24 @@
 						aria-controls="navbarSupportedContent"
 						aria-expanded="false"
 						aria-label="Toggle navigation"
+					> -->
+
+					<button
+						class="navbar-toggler"
+						type="button"
+						data-toggle="collapse"
+						data-target="#navbarSupportedContent"
+						aria-controls="navbarSupportedContent"
+						aria-expanded="false"
+						aria-label="Toggle navigation"
 					>
 						<span class="navbar-toggler-icon"></span>
 					</button>
+
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
-						<ul class="navbar-nav ms-auto">
+						<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 							<li class="nav-item">
-								<a class="nav-link" href="">Contact</a>
+								<a class="nav-link active aria-current="page" href="">Contact</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link" href="">Pricing</a>
@@ -63,7 +75,7 @@
 							</li>
 						</ul>
 					</div>
-				</nav>
+				</nav> 
 				<!-- Title -->
 
 				<div class="row">
@@ -81,7 +93,7 @@
 						</button>
 					</div>
 					<div class="col-lg-6">
-						<img src="images/iphone6.png" alt="iphone-mockup" />
+						<img class="title-image" src="images/iphone6.png" alt="iphone-mockup" />
 					</div>
 				</div>
 			</div>
@@ -221,17 +233,33 @@
 		</section>
 
 		<!-- Call to Action -->
-
 		<section id="cta">
-			<h3>Find the True Love of Your Dog's Life Today.</h3>
-			<button type="button">Download</button>
-			<button type="button">Download</button>
+		<div class="row">
+			<div class="col-lg-12">
+				<h3>Find the True Love of Your Dog's Life Today.</h3>
+				<button type="button" class="btn btn-dark btn-lg download-button">
+					<i class="fab fa-apple"></i> Download
+				</button>
+				<button
+					type="button"
+					class="btn btn-outline-light btn-lg download-button"
+				>
+					<i class="fab fa-google-play"></i>
+					Download
+				</button>
+			</div>
+		</div>
 		</section>
+	
 
 		<!-- Footer -->
 
 		<footer id="footer">
-			<p>© Copyright 2021 TinDog</p>
+			<i class="icon2 fab fa-twitter"></i>
+			<i class="icon2 fab fa-facebook-f"></i>
+			<i class="icon2 fab fa-instagram"></i>
+			<i class="icon2 fas fa-envelope"></i>
+			<p class="copyright">© Copyright 2021 TinDog</p>
 		</footer>
 
 		<!-- Optional JavaScript -->
