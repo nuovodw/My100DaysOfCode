@@ -527,6 +527,18 @@
     
 **:thought_balloon:Thoughts:**
 1. Didn't have enough time to study JavaScript today. Hopefully will do extra tomorrow.
+</br>
+
+### Day 32: January 27, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: How JavaScript works behind the scenes
+    1. Scope and the Scope Chain (Theory lecture)
+1. CSS with Angela Yu: Bootstrap 4
+    1. Continue Bootstrap challenge #2
+    
+**:thought_balloon:Thoughts:**
+1. Took 90 minutes to digest a 22 minute theory lecture, but I'm glad I took the time 🤯
 
 
 
