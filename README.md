@@ -535,10 +535,11 @@
 1. JavaScript with Jonas S: How JavaScript works behind the scenes
     1. Scope and the Scope Chain (Theory lecture)
 1. CSS with Angela Yu: Bootstrap 4
-    1. Continue Bootstrap challenge #2
+    1. Completed all of the Bootstrap section and the challenge/website.
     
 **:thought_balloon:Thoughts:**
 1. Took 90 minutes to digest a 22 minute theory lecture, but I'm glad I took the time 🤯
+2. I'll be taking Andrei Neagoi's Bootstrap lecture starting tomorrow.
 
 
 
