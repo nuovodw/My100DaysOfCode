@@ -1,32 +1,55 @@
 body {
 	font-family: 'Montserrat', sans-serif;
+	text-align: center;
 }
 
-#title {
-	background-color: #ff4c68;
-	color: #fff;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Montserrat';
+	font-weight: 900;
 }
 
-.container-fluid {
-	/*customizing default Bootstrap*/
-	padding: 3% 15% 7%;
-}
+/* Headings */
 
-h1 {
+.big-heading {
 	font-family: 'Montserrat';
 	font-weight: 900;
 	font-size: 3.5rem;
 	line-height: 1.5;
 }
 
-h2 {
-	font-family: 'Montserrat';
-	font-weight: 900;
+.section-heading {
 	font-size: 2.5rem;
 	line-height: 1.5;
 }
 
-/* title image */
+/* containers */
+
+.container-fluid {
+	/*customizing default Bootstrap*/
+	padding: 7% 15%;
+}
+
+.colored-section {
+	background-color: #ff4c68;
+	color: #fff;
+}
+
+.white-section {
+	background-color: white;
+}
+
+/* Title Section  */
+
+#title .container-fluid {
+	padding: 3% 15% 7%;
+	text-align: left;
+}
+
 .title-image {
 	width: 25%;
 	transform: rotate(25deg);
@@ -35,21 +58,16 @@ h2 {
 
 /* Features */
 #features {
-	/* font-size: 1.5rem; */
-	padding: 7% 5%;
-	background-color: white;
 	position: relative;
 }
 
 #features p {
 	color: #8f8f8f;
-	text-align: center;
 	font-size: 1.2rem;
 }
 
 #features h3 {
 	font-weight: 900;
-	text-align: center;
 }
 
 #features div.col-lg-4 {
@@ -93,9 +111,12 @@ h2 {
 
 /* Testimonials */
 #testimonials {
-	text-align: center;
 	background-color: #ef8172;
-	color: #fff;
+}
+
+.testimonial-text {
+	font-size: 2.5rem;
+	line-height: 1.5;
 }
 
 .testimonial-image {
@@ -104,13 +125,8 @@ h2 {
 	margin: 20px;
 }
 
-.carousel-item {
-	padding: 7% 15%;
-}
-
 #press {
 	background-color: #ef8172;
-	text-align: center;
 	padding-bottom: 3%;
 }
 
@@ -124,18 +140,16 @@ h2 {
 	padding: 100px;
 }
 
+.price-text {
+	font-size: 2.5rem;
+	line-height: 1.5;
+}
+
 .pricing-column {
 	padding: 3% 2%;
 }
 
 /* Call to action */
-
-#cta {
-	font-family: 'Montserrat';
-	background-color: #ff4c68;
-	text-align: center;
-	padding: 7% 15%;
-}
 
 #cta h3 {
 	font-weight: 900;
@@ -145,9 +159,7 @@ h2 {
 
 /* Footer */
 #footer {
-	text-align: center;
 	margin: 5%;
-	padding: 7% 15%;
 }
 
 .icon2 {
@@ -162,7 +174,7 @@ h2 {
 /* Mobile responsive*/
 
 @media (max-width: 991px) {
-	#title {
+	#title .container-fluid {
 		text-align: center;
 	}
 
