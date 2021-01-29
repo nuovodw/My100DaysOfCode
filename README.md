@@ -540,6 +540,18 @@
 **:thought_balloon:Thoughts:**
 1. Took 90 minutes to digest a 22 minute theory lecture, but I'm glad I took the time 🤯
 2. I'll be taking Andrei Neagoi's Bootstrap lecture starting tomorrow.
+</br>
+
+### Day 33: January 28, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: How JavaScript works behind the scenes
+    1. Scoping in Practice (coding practice)
+    1. Hoisting and Temporal Deadzone (theory lecture)
+
+**:thought_balloon:Thoughts:**
+
+
 
 
 
