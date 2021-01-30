@@ -550,6 +550,19 @@
     1. Hoisting and Temporal Deadzone (theory lecture)
 
 **:thought_balloon:Thoughts:**
+</br>
+
+### Day 34: January 29, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: How JavaScript works behind the scenes
+    1. The *this* keyword (theory lecture & code practice)
+    1. Regular Function vs Arrow Function (theory lecture)
+1. 20 Web Projects with Vanilla JavaScript - Brad Traversy
+    1. Form Validator
+
+**:thought_balloon:Thoughts:**
+1. I'm experimenting with Traversy's 20 Web Projects. Fun so far.
 
 
 
