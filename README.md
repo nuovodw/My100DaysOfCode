@@ -563,6 +563,17 @@
 
 **:thought_balloon:Thoughts:**
 1. I'm experimenting with Traversy's 20 Web Projects. Fun so far.
+</br>
+
+### Day 35: January 30, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: How JavaScript works behind the scenes
+    1. Primitives vs. Objects (Primitive vs. Reference Types)(theory lecture & code practice)
+
+**:thought_balloon:Thoughts:**
+1. Finally finished the "Behind the Scenes" theory section! 🙌
+    1. There was lots of information to digest--many quetions have been answered.
 
 
 
