@@ -570,6 +570,8 @@
 **:white_check_mark:Today's Progress**
 1. JavaScript with Jonas S: How JavaScript works behind the scenes
     1. Primitives vs. Objects (Primitive vs. Reference Types)(theory lecture & code practice)
+1. DOM Manipulation with Andrei Neagoie
+    1. Created a background generator
 
 **:thought_balloon:Thoughts:**
 1. Finally finished the "Behind the Scenes" theory section! 🙌
