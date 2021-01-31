@@ -576,8 +576,24 @@
 **:thought_balloon:Thoughts:**
 1. Finally finished the "Behind the Scenes" theory section! 🙌
     1. There was lots of information to digest--many quetions have been answered.
+</br>
 
+### Day 36: January 31, 2021
 
+**:white_check_mark:Today's Progress**
+1. DOM Manipulation with Andrei Neagoie
+    1. Added a function/button to create random gradient color
+
+**:thought_balloon:Thoughts:**
+1. I've been thinking about how to move forward with the courses and what do to next.
+    1. I think it's best to finish all modules in Andrei Neagoie's bootcamp up to the GitHub section. They include pretty much everything up until the switch-over to back-end.
+        1. Bootstrap, CSS Grid & Layout, Advanced JavaScript, Command Line, and Git & GitHub 
+    1. Jonas S's JavaScript will still be part of the curriculum--however, I plan to visit the topics as needed.
+    1. At this point, I have completed all of Angela Yu's regular modules for front-end, except for the Unix Command Line.
+        1. I may visit the Web Design section at some point.
+        1. I'm still wondering how much jQuery I will need to study. 
+            1. I may end up learning them just to learn the basic concept.
+1. I NEED to start building my own project!😲
 
 
 
