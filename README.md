@@ -595,6 +595,18 @@
         1. I'm still wondering how much jQuery I will need to study. 
             1. I may end up learning them just to learn the basic concept.
 1. I NEED to start building my own project!😲
+</br>
+
+### Day 37: February 1, 2021
+
+**:white_check_mark:Today's Progress**
+1. Andrei's style of teaching JavaScript does not click with my style of learning. 
+    1. I think I will stick with Jonas for JavaScript.
+1. Startup Landing Page (Bootstrap)
+    1.
+
+**:thought_balloon:Thoughts:**
+1. 
 
 
 
