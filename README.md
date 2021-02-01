@@ -583,6 +583,7 @@
 **:white_check_mark:Today's Progress**
 1. DOM Manipulation with Andrei Neagoie
     1. Added a function/button to create random gradient color
+1. Started Advanced JavaScript, as well as a Bootstrap project (Startup Landing Page), with Andrei Neagoie.
 
 **:thought_balloon:Thoughts:**
 1. I've been thinking about how to move forward with the courses and what do to next.
