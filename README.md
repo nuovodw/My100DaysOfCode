@@ -603,7 +603,6 @@
 1. Andrei's style of teaching JavaScript does not click with my style of learning. 
     1. I think I will stick with Jonas for JavaScript.
 1. Startup Landing Page (Bootstrap)
-    1.
 
 **:thought_balloon:Thoughts:**
 </br>
@@ -615,6 +614,18 @@
     1. Destructuring Arrays and Objects
 
 **:thought_balloon:Thoughts:**
+</br>
+
+### Day 39: February 3, 2021
+
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Data Structures, Modern Operators and Strings
+    1. Completed Destructuring Objects (LONG!)
+1. Bootstrap with Andrei N
+    1. Startup Landing Page continued
+
+**:thought_balloon:Thoughts:**
+
 
 
 <!-- **:calendar:Short-term plan:**</br> 
