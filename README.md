@@ -606,10 +606,15 @@
     1.
 
 **:thought_balloon:Thoughts:**
-1. 
+</br>
 
+### Day 38: February 2, 2021
 
+**:white_check_mark:Today's Progress**
+1. JavaScript with Jonas S: Data Structures, Modern Operators and Strings
+    1. Destructuring Arrays and Objects
 
+**:thought_balloon:Thoughts:**
 
 
 <!-- **:calendar:Short-term plan:**</br> 
