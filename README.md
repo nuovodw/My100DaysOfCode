@@ -625,6 +625,16 @@
     1. Startup Landing Page continued
 
 **:thought_balloon:Thoughts:**
+</br>
+
+### Day 39: February 4, 2021
+
+**:white_check_mark:Today's Progress**
+1. Bootstrap with Andrei N
+    1. Startup Landing Page continued
+
+**:thought_balloon:Thoughts:**
+1. Lots of music work this week, which means less time to practice coding 😟
 
 
 
