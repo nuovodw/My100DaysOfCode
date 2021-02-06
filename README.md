@@ -635,7 +635,15 @@
 
 **:thought_balloon:Thoughts:**
 1. Lots of music work this week, which means less time to practice coding 😟
+</br>
 
+### Day 40: February 5, 2021
+
+**:white_check_mark:Today's Progress**
+1. FreeCodeCamp JavaScript modules
+
+**:thought_balloon:Thoughts:**
+1. Quick coding practice during an out-of-town work trip
 
 
 <!-- **:calendar:Short-term plan:**</br> 
