@@ -644,6 +644,27 @@
 
 **:thought_balloon:Thoughts:**
 1. Quick coding practice during an out-of-town work trip
+</br>
+
+### Day 41: February 6, 2021
+
+**:white_check_mark:Today's Progress**
+1. Boostrap with Andre N
+    1. Startup Landing Page -- MailChimp
+
+**:thought_balloon:Thoughts:**
+</br>
+
+### Day 42: February 7, 2021
+
+**:white_check_mark:Today's Progress**
+1. Boostrap with Andre N
+    1. Startup Landing Page -- MailChimp (continued)
+
+**:thought_balloon:Thoughts:**
+1. Back from work trip. Look forward to getting back into regualr coding routine this week.
+
+
 
 
 <!-- **:calendar:Short-term plan:**</br> 
