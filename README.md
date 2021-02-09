@@ -671,7 +671,16 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Boostrap with Andre N
     1. Startup Landing Page -- MailChimp (continued)
+</br>
 
+### Day 44: February 9, 2021
+
+**:white_check_mark:Today's Progress**
+1. Boostrap with Andre N
+    1. Activate the website using Github.io
+    1. Animate.sytle
+    1. Bootstrap templates
+    
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
