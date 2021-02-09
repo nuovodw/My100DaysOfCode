@@ -663,8 +663,13 @@
 
 **:thought_balloon:Thoughts:**
 1. Back from work trip. Look forward to getting back into regualr coding routine this week.
+</br>
 
+### Day 43: February 8, 2021
 
+**:white_check_mark:Today's Progress**
+1. Boostrap with Andre N
+    1. Startup Landing Page -- MailChimp (continued)
 
 
 <!-- **:calendar:Short-term plan:**</br> 
