@@ -1,5 +1,6 @@
 # My 100 Days of Code
-## Coding diary to track my progress
+## Coding diary to track my progress. 
+View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/main/Code%20Practice).
 
 ### Day 1: December 27, 2020
 <!-- ##### (delete me or comment me out)-->
