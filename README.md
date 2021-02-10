@@ -680,6 +680,8 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Activate the website using Github.io
     1. Animate.sytle
     1. Bootstrap templates
+1. CSS Grid and Flexbox with Andre N
+    1. Lesson 1
     
 
 <!-- **:calendar:Short-term plan:**</br> 
