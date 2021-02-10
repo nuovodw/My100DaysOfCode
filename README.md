@@ -682,6 +682,17 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Bootstrap templates
 1. CSS Grid and Flexbox with Andre N
     1. Lesson 1
+</br>
+
+### Day 45: February 10, 2021
+
+**:white_check_mark:Today's Progress**
+1. CSS Grid and Flexbox with Andre N
+    1. Lesson 2
+1. Advanced CSS with Jonas S.
+    1. Building Natours website using advanced CSS 
+        1. Clip-path
+        1. Centering a box using transform:translate()
     
 
 <!-- **:calendar:Short-term plan:**</br> 
