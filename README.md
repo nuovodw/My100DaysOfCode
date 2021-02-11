@@ -694,8 +694,15 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
         1. Clip-path
         1. Centering a box using transform:translate()
         1. CSS Animation using @keyframes
-    
+</br>
 
+### Day 46: February 11, 2021
+
+**:white_check_mark:Today's Progress**
+1. Advanced CSS with Jonas S.
+    1. Building Natours website using advanced CSS 
+        1. Animated Buttons
+        
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
