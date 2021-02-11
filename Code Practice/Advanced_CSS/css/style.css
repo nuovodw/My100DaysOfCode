@@ -1,0 +1,133 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.7;
+	color: #777;
+	padding: 30px;
+}
+
+/* Header */
+
+.header {
+	height: 95vh;
+	background-image: linear-gradient(to right bottom, #7ed56f25, #28b485),
+		url(../img/hero.jpg);
+	background-size: cover; /*fits inside the window*/
+	background-position: top; /*top remains the same when resized*/
+	clip-path: polygon(0 0, 100% 0, 100% 75%, 0% 100%);
+	position: relative;
+}
+
+.logo-box {
+	position: absolute;
+	top: 40px;
+	left: 40px;
+}
+
+.logo {
+	height: 35px;
+}
+
+/* .logo:hover {
+	animation: moveInRight 1s;
+} */
+
+.text-box {
+	position: absolute;
+	top: 40%; /*places top of the box 40% down from the parent box*/
+	left: 50%; /*places left of the box at halfway from left side of parent box*/
+	transform: translate(-50%, -50%); /*in relation to the element itself*/
+}
+
+.heading-primary {
+	color: #fff;
+	text-transform: uppercase;
+
+	/* if the animation shakes at the end, use this fix: */
+	backface-visibility: hidden;
+}
+
+.heading-primary-main {
+	display: block; /*split the sentence into two lines*/
+	font-size: 60px;
+	font-weight: 400;
+	letter-spacing: 35px;
+
+	animation-name: moveInLeft;
+	animation-duration: 1s;
+	animation-timing-function: ease-out;
+	/* animation-iteration-count: 3; */
+	/* animation-delay: 3s; */
+}
+
+.heading-primary-sub {
+	display: block; /*split the sentence into two lines*/
+	font-size: 20px;
+	font-weight: 700;
+	letter-spacing: 17.4px;
+
+	animation: moveInRight 1s ease-out;
+}
+
+/* CSS Animations */
+@keyframes moveInLeft {
+	0% {
+		/*before the animation starts*/
+		opacity: 0;
+		transform: translateX(-100px) /*rotate(100deg)*/; /* x goes from left to right | the animation begins 100px left of the original location*/
+	}
+	/* 60% {
+		transform: rotate(120deg);
+	} */
+	80% {
+		transform: translateX(10px);
+		/* will move 10px over to the right of the original place  */
+	}
+
+	100% {
+		/*animation finishes*/
+		opacity: 1;
+		transform: translate(
+			0
+		); /* this is the way it looks now (the final version) */
+	}
+}
+
+@keyframes moveInRight {
+	0% {
+		/*before the animation starts*/
+		opacity: 0;
+		transform: translateX(
+			100px
+		); /* x goes from right to left | the animation begins 100px right of the original location*/
+	}
+
+	80% {
+		transform: translateX(-10px);
+		/* will move 10px over to the left of the original place  */
+	}
+
+	100% {
+		/*animation finishes*/
+		opacity: 1;
+		transform: translate(
+			0
+		); /* this is the way it looks now (the final version) */
+	}
+}
