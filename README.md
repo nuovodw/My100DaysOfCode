@@ -693,6 +693,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Building Natours website using advanced CSS 
         1. Clip-path
         1. Centering a box using transform:translate()
+        1. CSS Animation using @keyframes
     
 
 <!-- **:calendar:Short-term plan:**</br> 
