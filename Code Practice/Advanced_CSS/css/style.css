@@ -53,6 +53,7 @@ body {
 	top: 40%; /*places top of the box 40% down from the parent box*/
 	left: 50%; /*places left of the box at halfway from left side of parent box*/
 	transform: translate(-50%, -50%); /*in relation to the element itself*/
+	text-align: center;
 }
 
 .heading-primary {
@@ -61,6 +62,7 @@ body {
 
 	/* if the animation shakes at the end, use this fix: */
 	backface-visibility: hidden;
+	margin-bottom: 60px;
 }
 
 .heading-primary-main {
@@ -130,4 +132,33 @@ body {
 			0
 		); /* this is the way it looks now (the final version) */
 	}
+}
+
+/* Animated Button */
+
+.btn:link,
+.btn:visited {
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 15px 40px;
+	display: inline-block; /* :hover DOES NOT work without this for some reason🤔*/
+	border-radius: 40px;
+	transition: all 0.2s;
+}
+
+.btn:hover {
+	transform: translateY(-3px);
+	/* Y axis moves top to bottom. In order to move UP, we need to use negative number. */
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+	/* offset-x | offset-y | blur-radius | color & opacity */
+}
+
+.btn:active {
+	transform: translateY(-1px);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-white {
+	background-color: #fff;
+	color: #777;
 }
