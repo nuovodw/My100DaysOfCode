@@ -702,6 +702,15 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Advanced CSS with Jonas S.
     1. Building Natours website using advanced CSS 
         1. Animated Buttons
+</br>
+
+### Day 47: February 12, 2021
+
+**:white_check_mark:Today's Progress**
+1. Advanced CSS with Jonas S.
+    1. Building Natours website using advanced CSS 
+        1. Animated Buttons continued
+        
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
