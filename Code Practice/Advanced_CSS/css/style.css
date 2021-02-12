@@ -44,10 +44,6 @@ body {
 	height: 35px;
 }
 
-/* .logo:hover {
-	animation: moveInRight 1s;
-} */
-
 .text-box {
 	position: absolute;
 	top: 40%; /*places top of the box 40% down from the parent box*/
@@ -59,10 +55,10 @@ body {
 .heading-primary {
 	color: #fff;
 	text-transform: uppercase;
+	margin-bottom: 60px;
 
 	/* if the animation shakes at the end, use this fix: */
 	backface-visibility: hidden;
-	margin-bottom: 60px;
 }
 
 .heading-primary-main {
@@ -71,6 +67,8 @@ body {
 	font-weight: 400;
 	letter-spacing: 35px;
 
+	/* Shorthand version for below --> 
+   animation: moveInRight 1s ease-out; */
 	animation-name: moveInLeft;
 	animation-duration: 1s;
 	animation-timing-function: ease-out;
@@ -134,16 +132,41 @@ body {
 	}
 }
 
+@keyframes moveInUp {
+	0% {
+		/*before the animation starts*/
+		opacity: 0;
+		transform: translateY(
+			30px
+		); /* x goes from right to left | the animation begins 100px right of the original location*/
+	}
+
+	100% {
+		/*animation finishes*/
+		opacity: 1;
+		transform: translate(
+			0
+		); /* this is the way it looks now (the final version) */
+	}
+}
+
 /* Animated Button */
 
+/* Animated on hover and press */
 .btn:link,
 .btn:visited {
 	text-transform: uppercase;
 	text-decoration: none;
 	padding: 15px 40px;
-	display: inline-block; /* :hover DOES NOT work without this for some reason🤔*/
+
+	/* :hover DOES NOT work without this🤔*/
+	display: inline-block;
+
 	border-radius: 40px;
 	transition: all 0.2s;
+
+	/* Set reference point for absolute positioning for .btn::after   */
+	position: relative;
 }
 
 .btn:hover {
@@ -161,4 +184,50 @@ body {
 .btn-white {
 	background-color: #fff;
 	color: #777;
+}
+
+/* Button zooms out on hover and back in  */
+
+.btn::after {
+	/*must specify the content property, even if it's empty*/
+	content: '';
+
+	/* Make the button look the same as the original */
+	display: inline-block;
+	height: 100%; /* 100% of the orignial btn*/
+	width: 100%; /* 100% of the orignial btn*/
+	border-radius: 100px;
+
+	/* place the btn behind the original  */
+	position: absolute; /*Must first set orinignal position (reference) of the original .btn to relative*/
+	top: 0;
+	left: 0;
+
+	/* Hide behind the orinigal button */
+	z-index: -1;
+
+	/* Must put the transition herer (initial state): .btn::after  */
+	transition: all 0.4s;
+}
+
+.btn-white::after {
+	background-color: white;
+}
+
+/* Hover over the button and then pseud-style will take effect */
+.btn:hover::after {
+	transform: scaleX(1.4) scaleY(1.6); /*Enlarge the size*/
+
+	/* Put the transition-property on the initial state: .btn::after  */
+
+	/* Element fades out using opacity  */
+	opacity: 0;
+}
+
+/* button appears from bottom at start  */
+.btn-animated {
+	animation: moveInUp 0.5s ease-out 0.75s;
+
+	/* Automatically set the start to the 0% of the @keyframe moveInUp */
+	animation-fill-mode: backwards;
 }
