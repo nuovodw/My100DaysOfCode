@@ -719,7 +719,15 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Building Natours website using advanced CSS 
         1. Animated Buttons continued
 1. General JavaScript review
-        
+</br>
+
+### Day 49: February 14, 2021
+
+**:white_check_mark:Today's Progress**
+1. Free Code Camp JavaScript 
+
+**:thought_balloon:Thoughts:**
+1. It's been busy at work, and it resulted in less time dedicated to coding. Trying to get as much coding in as I can before and/or after work!
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
