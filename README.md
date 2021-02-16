@@ -728,6 +728,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 
 **:thought_balloon:Thoughts:**
 1. It's been busy at work, and it resulted in less time dedicated to coding. Trying to get as much coding in as I can before and/or after work!
+</br>
+
+### Day 50: February 15, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Review JavaScript basics and control flow basics
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
