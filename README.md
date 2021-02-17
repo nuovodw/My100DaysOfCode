@@ -735,6 +735,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Review JavaScript basics and control flow basics
+</br>
+
+### Day 51: February 16, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Review JavaScript Functions, Methods, and Object Literals.
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
