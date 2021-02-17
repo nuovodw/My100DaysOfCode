@@ -742,6 +742,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Review JavaScript Functions, Methods, and Object Literals.
+</br>
+
+### Day 52: February 17, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Review JavaScrript DOM manipulations.
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
