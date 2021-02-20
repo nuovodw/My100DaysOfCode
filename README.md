@@ -756,6 +756,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
+</br>
+
+### Day 54: February 19, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. [continued] Review JavaScrript DOM manipulations.
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
