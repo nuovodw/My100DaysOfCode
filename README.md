@@ -791,6 +791,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
+    2. Form and Form Events Intro
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
