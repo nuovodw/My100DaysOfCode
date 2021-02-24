@@ -5,4 +5,4 @@
 * [Pig Game](https://nuovodw.github.io/My100DaysOfCode/Code%20Practice/Pig_Game/) 
 * [To-do List](https://nuovodw.github.io/My100DaysOfCode/Code%20Practice/To_Do_List/)
 * [Banana Republic](https://nuovodw.github.io/My100DaysOfCode/Code%20Practice/Banana_Republic/)
-* [Popup-Window](https://nuovodw.github.io/My100DaysOfCode/Popup_window/)
+* [Popup-Window](https://nuovodw.github.io/My100DaysOfCode/Code%20Practice/Popup_window/)
