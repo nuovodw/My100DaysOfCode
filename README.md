@@ -792,6 +792,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
     2. Form and Form Events Intro
+</br>
+
+### Day 58: February 24, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Form and Form Events 
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
