@@ -813,6 +813,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Array Methods (Find, Sort)
+</br>
+
+### Day 61: February 27, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Advanced To do list
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
