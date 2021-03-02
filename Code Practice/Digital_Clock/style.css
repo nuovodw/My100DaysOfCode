@@ -6,9 +6,31 @@ html {
 	background-size: cover;
 }
 
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 3em;
+	position: fixed;
+	top: 26%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+/* h1::after {
+	content: '';
+	background: url(background.jpg);
+	opacity: 0.3;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;
+} */
+
 .clock {
 	font-size: 2em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Dancing Script', cursive;
 	color: black;
 	border: ;
 	position: fixed;
@@ -18,14 +40,14 @@ html {
 	text-align: center;
 }
 
-.clock::after {
+/* .clock::after {
 	content: '';
 	background: url(background.jpg);
-	opacity: 0.2;
+	opacity: 0.3;
 	top: 0;
 	left: 0;
 	bottom: 0;
 	right: 0;
 	position: absolute;
 	z-index: -1;
-}
+} */
