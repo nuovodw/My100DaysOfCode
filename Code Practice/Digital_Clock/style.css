@@ -1,0 +1,31 @@
+html {
+	background: url(background.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.clock {
+	font-size: 3em;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	border: ;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.clock::after {
+	content: '';
+	background: url(background.jpg);
+	opacity: 0.2;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;
+}
