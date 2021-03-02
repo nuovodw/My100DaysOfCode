@@ -820,6 +820,20 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Advanced To do list
+</br>
+
+### Day 62: March 1, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Dates and Times
+</br>
+
+### Day 62: March 2, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Created a digital clock 
         
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
