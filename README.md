@@ -628,7 +628,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:thought_balloon:Thoughts:**
 </br>
 
-### Day 39: February 4, 2021
+### Day 40: February 4, 2021
 
 **:white_check_mark:Today's Progress**
 1. Bootstrap with Andrei N
@@ -638,7 +638,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Lots of music work this week, which means less time to practice coding 😟
 </br>
 
-### Day 40: February 5, 2021
+### Day 41: February 5, 2021
 
 **:white_check_mark:Today's Progress**
 1. FreeCodeCamp JavaScript modules
@@ -647,7 +647,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Quick coding practice during an out-of-town work trip
 </br>
 
-### Day 41: February 6, 2021
+### Day 42: February 6, 2021
 
 **:white_check_mark:Today's Progress**
 1. Boostrap with Andre N
@@ -656,7 +656,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:thought_balloon:Thoughts:**
 </br>
 
-### Day 42: February 7, 2021
+### Day 43: February 7, 2021
 
 **:white_check_mark:Today's Progress**
 1. Boostrap with Andre N
@@ -666,14 +666,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Back from work trip. Look forward to getting back into regualr coding routine this week.
 </br>
 
-### Day 43: February 8, 2021
+### Day 44: February 8, 2021
 
 **:white_check_mark:Today's Progress**
 1. Boostrap with Andre N
     1. Startup Landing Page -- MailChimp (continued)
 </br>
 
-### Day 44: February 9, 2021
+### Day 45: February 9, 2021
 
 **:white_check_mark:Today's Progress**
 1. Boostrap with Andre N
@@ -684,7 +684,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Lesson 1
 </br>
 
-### Day 45: February 10, 2021
+### Day 46: February 10, 2021
 
 **:white_check_mark:Today's Progress**
 1. CSS Grid and Flexbox with Andre N
@@ -696,7 +696,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
         1. CSS Animation using @keyframes
 </br>
 
-### Day 46: February 11, 2021
+### Day 47: February 11, 2021
 
 **:white_check_mark:Today's Progress**
 1. Advanced CSS with Jonas S.
@@ -704,7 +704,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
         1. Animated Buttons
 </br>
 
-### Day 47: February 12, 2021
+### Day 48: February 12, 2021
 
 **:white_check_mark:Today's Progress**
 1. Advanced CSS with Jonas S.
@@ -712,7 +712,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
         1. Animated Buttons continued
 </br>
 
-### Day 48: February 13, 2021
+### Day 49: February 13, 2021
 
 **:white_check_mark:Today's Progress**
 1. Advanced CSS with Jonas S.
@@ -721,7 +721,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. General JavaScript review
 </br>
 
-### Day 49: February 14, 2021
+### Day 50: February 14, 2021
 
 **:white_check_mark:Today's Progress**
 1. Free Code Camp JavaScript 
@@ -730,63 +730,63 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. It's been busy at work, and it resulted in less time dedicated to coding. Trying to get as much coding in as I can before and/or after work!
 </br>
 
-### Day 50: February 15, 2021
+### Day 51: February 15, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Review JavaScript basics and control flow basics
 </br>
 
-### Day 51: February 16, 2021
+### Day 52: February 16, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Review JavaScript Functions, Methods, and Object Literals.
 </br>
 
-### Day 52: February 17, 2021
+### Day 53: February 17, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Review JavaScrript DOM manipulations.
 </br>
 
-### Day 53: February 18, 2021
+### Day 54: February 18, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
 </br>
 
-### Day 54: February 19, 2021
+### Day 55: February 19, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
 </br>
 
-### Day 55: February 20, 2021
+### Day 56: February 20, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
 </br>
 
-### Day 55: February 21, 2021
+### Day 57: February 21, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
 </br>
 
-### Day 56: February 22, 2021
+### Day 58: February 22, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. [continued] Review JavaScrript DOM manipulations.
 </br>
 
-### Day 57: February 23, 2021
+### Day 59: February 23, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
@@ -794,56 +794,56 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     2. Form and Form Events Intro
 </br>
 
-### Day 58: February 24, 2021
+### Day 60: February 24, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Form and Form Events 
 </br>
 
-### Day 59: February 25, 2021
+### Day 61: February 25, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Array Methods (Filter & Map)
 </br>
 
-### Day 60: February 26, 2021
+### Day 62: February 26, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Array Methods (Find, Sort)
 </br>
 
-### Day 61: February 27, 2021
+### Day 63: February 27, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Advanced To do list
 </br>
 
-### Day 62: March 1, 2021
+### Day 64: March 1, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Dates and Times
 </br>
 
-### Day 63: March 2, 2021
+### Day 65: March 2, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Created a digital clock 
 </br>
 
-### Day 64: March 3, 2021
+### Day 66: March 3, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Dates-fn Library
 </br>
 
-### Day 65: March 5, 2021
+### Day 67: March 5, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
@@ -851,21 +851,30 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     2. HTTP Requests
 </br>
 
-### Day 66: March 6, 2021
+### Day 68: March 6, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Response Status
 </br>
 
-### Day 67: March 11, 2021
+### Day 69: March 11, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. MDN Async JavaScript
     2. Callback Functions
     3. JSON Data
+</br>
 
+### Day 70: March 12, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Callback Hell
+    2. Promises 
+    3. Chaining promises
+    4. Fetch API
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
