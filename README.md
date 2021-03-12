@@ -829,12 +829,44 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Dates and Times
 </br>
 
-### Day 62: March 2, 2021
+### Day 63: March 2, 2021
 
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Created a digital clock 
-        
+</br>
+
+### Day 64: March 3, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Dates-fn Library
+</br>
+
+### Day 65: March 5, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Asynchronous JavaScript
+    2. HTTP Requests
+</br>
+
+### Day 66: March 6, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Response Status
+</br>
+
+### Day 67: March 11, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. MDN Async JavaScript
+    2. Callback Functions
+    3. JSON Data
+
+
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
