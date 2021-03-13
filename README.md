@@ -875,6 +875,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     2. Promises 
     3. Chaining promises
     4. Fetch API
+    5. Async & Await
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
