@@ -16,10 +16,10 @@ const updateUI = (anyData) => {
 					</div>
 	`;
 
-	// remove d-none class if present
-	if (card.classList.contains('d-none')) {
-		card.classList.remove('d-none');
-	}
+// 	// remove d-none class if present
+// 	if (card.classList.contains('d-none')) {
+// 		card.classList.remove('d-none');
+// 	}
 };
 
 // update city info
