@@ -906,6 +906,15 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Free Code Camp
     1. CSS: Responsive Web Design Principles
     2. CSS: Flexbox
+</br>
+
+### Day 74: March 16, 2021
+
+**:white_check_mark:Today's Progress**
+1. Free Code Camp
+    1. CSS: Flexbox
+    2. CSS: Grid
+2. Bought my first domain!
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
