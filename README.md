@@ -876,6 +876,36 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     3. Chaining promises
     4. Fetch API
     5. Async & Await
+</br>
+
+### Day 71: March 13, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Weather App
+        1. AccuWeather API
+        2. Get City API call
+</br>
+
+### Day 72: March 14, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Weather App
+        1. Get Weather API call
+        2. Updating the location
+        3. Object Shorthand notation
+</br>
+
+### Day 73: March 15, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Weather App
+        1. Updating the UI
+1. Free Code Camp
+    1. CSS: Responsive Web Design Principles
+    2. CSS: Flexbox
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
