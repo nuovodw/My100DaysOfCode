@@ -915,6 +915,8 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. CSS: Flexbox
     2. CSS: Grid
 2. Bought my first domain!
+3. Finally started a project from scratch
+    1. Web site for my friend's band
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
