@@ -7,3 +7,10 @@ body {
 .containter {
 	max-width: 360px;
 }
+
+.icon {
+	position: relative;
+	top: -50px;
+	border-radius: 50%;
+	width: 100px;
+}
