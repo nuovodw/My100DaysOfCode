@@ -2,7 +2,7 @@ const key = 'p6WqcUxVySBDjHDgfTYjzEwixHbo0GAx'; // from AccuWeather API
 
 // Get Weather Info
 const getWeather = async (locationKey) => {
-	const base = 'http://dataservice.accuweather.com/currentconditions/v1/';
+	const base = 'https://cors-anywhere.herokuapp.com/http://dataservice.accuweather.com/currentconditions/v1/';
 	const query = `${locationKey}?apikey=${key}`;
 
 	const response = await fetch(base + query);
