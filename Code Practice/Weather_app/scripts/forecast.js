@@ -2,7 +2,8 @@ const key = 'p6WqcUxVySBDjHDgfTYjzEwixHbo0GAx'; // from AccuWeather API
 
 // Get Weather Info
 const getWeather = async (locationKey) => {
-	const base = 'https://cors-anywhere.herokuapp.com/http://dataservice.accuweather.com/currentconditions/v1/';
+	const base =
+		'https://cors-anywhere.herokuapp.com/http://dataservice.accuweather.com/currentconditions/v1/';
 	const query = `${locationKey}?apikey=${key}`;
 
 	const response = await fetch(base + query);
@@ -15,7 +16,8 @@ const getWeather = async (locationKey) => {
 //Get City Info
 const getCity = async (city) => {
 	// Base URL of the API Endpoint we want to make a request
-	const base = 'http://dataservice.accuweather.com/locations/v1/cities/search';
+	const base =
+		'https://cors-anywhere.herokuapp.com/http://dataservice.accuweather.com/locations/v1/cities/search';
 
 	//Add query parameters to the end of a url by using ? at the end
 	//In code --> ? denotes beginning of the query parameter
