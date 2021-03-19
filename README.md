@@ -917,6 +917,22 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 2. Bought my first domain!
 3. Finally started a project from scratch
     1. Web site for my friend's band
+</br>
+
+### Day 75: March 17, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Weather App
+        1. Weather icons and images
+        2. Destructuring
+3. Portfolio project: Band Website
+</br>
+
+### Day 76: March 18, 2021
+
+**:white_check_mark:Today's Progress**
+1. Portfolio project: Band Website  
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
