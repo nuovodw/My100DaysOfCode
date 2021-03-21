@@ -933,6 +933,28 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 
 **:white_check_mark:Today's Progress**
 1. Portfolio project: Band Website  
+</br>
+
+### Day 77: March 19, 2021
+
+**:white_check_mark:Today's Progress**
+1. Portfolio project: Band Website  
+    1. Animated Hamburger Menu
+2. Create Weather App version 2
+</br>
+
+### Day 78: March 20, 2021
+
+**:white_check_mark:Today's Progress**
+1. Portfolio project: Band Website  
+    1. Animated Hamburger Menu
+2. Continue Version 2 of Weather App 
+</br>
+
+### Day 79: March 21, 2021
+
+**:white_check_mark:Today's Progress**
+1. 
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
