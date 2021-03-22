@@ -954,7 +954,8 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 ### Day 79: March 21, 2021
 
 **:white_check_mark:Today's Progress**
-1. 
+1. Portfolio project: Band Website  
+    1. Animated Hamburger Menu - ✅
 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
