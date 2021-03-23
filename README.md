@@ -956,7 +956,13 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Portfolio project: Band Website  
     1. Animated Hamburger Menu - ✅
+</br>
 
+### Day 80: March 22, 2021
+
+**:white_check_mark:Today's Progress**
+1. Portfolio project: Band Website  
+    
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
