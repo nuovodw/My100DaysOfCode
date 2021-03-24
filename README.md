@@ -968,6 +968,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 
 **:white_check_mark:Today's Progress**
 1. Weather App Round 3! (async/await is hard...)
+</br>
+
+### Day 81: March 23, 2021
+
+**:white_check_mark:Today's Progress**
+1. Weather App Round 3
+2. Re-learned the basics of GitHub and how to commit
+    1. Made commits to the Band Website Project using VScode terminal!
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
