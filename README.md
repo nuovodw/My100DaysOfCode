@@ -982,6 +982,12 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 
 **:white_check_mark:Today's Progress**
 1. Portfolio project: Band Website  
+</br>
+
+### Day 84: March 26, 2021
+
+**:white_check_mark:Today's Progress**
+1. Finished my first portfolio project! (Band Website) 
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
