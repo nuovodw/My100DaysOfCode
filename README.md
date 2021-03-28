@@ -987,7 +987,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 ### Day 84: March 26, 2021
 
 **:white_check_mark:Today's Progress**
-1. Finished my first portfolio project! (Band Website) 
+1. Finished my first portfolio project! (Band Website)
+</br>
+
+### Day 85: March 27, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Local Storage
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
