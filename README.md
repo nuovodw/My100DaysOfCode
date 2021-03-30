@@ -1009,6 +1009,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Free Code Camp 
     1. CSS Grid
+</br>
+
+### Day 88: March 30, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Object Oriented JavaScript
+
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
