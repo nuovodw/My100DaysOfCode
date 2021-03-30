@@ -995,6 +995,20 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Local Storage
+</br>
+
+### Day 86: March 28, 2021
+
+**:white_check_mark:Today's Progress**
+1. GitHub/Command line
+2. Quote Generator
+</br>
+
+### Day 87: March 29, 2021
+
+**:white_check_mark:Today's Progress**
+1. Free Code Camp 
+    1. CSS Grid
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
