@@ -1018,6 +1018,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Object Oriented JavaScript
 1. Free Code Camp
     1. CSS Grid - finished
+    2. Object Oriented Programming 
 
     
 <!-- **:calendar:Short-term plan:**</br> 
