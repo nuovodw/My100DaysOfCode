@@ -1017,8 +1017,16 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Net Ninja Modern JavaScript
     1. Object Oriented JavaScript
 1. Free Code Camp
-    1. CSS Grid - finished
-    2. Object Oriented Programming 
+    1. CSS Grid - finished ✅
+    2. Object Oriented Programming
+</br>
+
+### Day 89: March 31, 2021
+
+**:white_check_mark:Today's Progress**
+1. Free Code Camp
+    1. Object Oriented Programming - finished ✅
+
 
     
 <!-- **:calendar:Short-term plan:**</br> 
