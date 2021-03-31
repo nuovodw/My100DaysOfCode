@@ -1016,6 +1016,8 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Net Ninja Modern JavaScript
     1. Object Oriented JavaScript
+1. Free Code Camp
+    1. CSS Grid - finished
 
     
 <!-- **:calendar:Short-term plan:**</br> 
