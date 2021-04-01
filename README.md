@@ -1027,7 +1027,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Free Code Camp
     1. Object Oriented Programming - finished ✅
 1. Code Wars
+</br>
 
+### Day 90: April 1, 2021
+
+**:white_check_mark:Today's Progress**
+1. Net Ninja Modern JavaScript
+    1. Object Oriented JavaScript
+        1. First run-through of the module
 
     
 <!-- **:calendar:Short-term plan:**</br> 
