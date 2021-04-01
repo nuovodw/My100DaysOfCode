@@ -1026,6 +1026,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Free Code Camp
     1. Object Oriented Programming - finished ✅
+1. Code Wars
 
 
     
