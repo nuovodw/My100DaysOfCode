@@ -1048,6 +1048,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 2. The Complete JavaScript - Schmedtmand
     1. Object Oriented Programming Overview
     2. Constructor and NEW Operator
+    3. Prototypes
 
     
 <!-- **:calendar:Short-term plan:**</br> 
