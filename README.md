@@ -1035,6 +1035,19 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Net Ninja Modern JavaScript
     1. Object Oriented JavaScript
         1. First run-through of the module
+2. The Unix Command Line - Angela Yu
+3. Command Line Power User - Wes box
+</br>
+
+### Day 91: April 2, 2021
+
+**:white_check_mark:Today's Progress**
+1. Command Line Power User - Wes Bos
+    1. Failed to stylize my terminal
+
+2. The Complete JavaScript - Schmedtmand
+    1. Object Oriented Programming Overview
+    2. Constructor and NEW Operator
 
     
 <!-- **:calendar:Short-term plan:**</br> 
