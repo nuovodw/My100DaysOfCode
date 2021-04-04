@@ -1045,11 +1045,18 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. Command Line Power User - Wes Bos
     1. Failed to stylize my terminal
 
-2. The Complete JavaScript - Schmedtmand
+2. The Complete JavaScript - Schmedtmann
     1. Object Oriented Programming Overview
     2. Constructor and NEW Operator
     3. Prototypes
+</br>
 
+### Day 92: April 3, 2021
+
+**:white_check_mark:Today's Progress**
+1. The Complete JavaScript - Schmedtmann
+    1. Prototypal Inheritance
+    2. Code Challenge #1
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
