@@ -1057,6 +1057,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. The Complete JavaScript - Schmedtmann
     1. Prototypal Inheritance
     2. Code Challenge #1
+</br>
+
+### Day 92: April 4, 2021
+
+**:white_check_mark:Today's Progress**
+1. The Complete JavaScript - Schmedtmann
+    1. ES6 Classes
+    2. Setter and Getter
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
