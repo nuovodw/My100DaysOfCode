@@ -1065,6 +1065,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. The Complete JavaScript - Schmedtmann
     1. ES6 Classes
     2. Setter and Getter
+</br>
+
+### Day 93: April 5, 2021
+
+**:white_check_mark:Today's Progress**
+1. The Complete JavaScript - Schmedtmann
+    1. Setter and Getter
+    2. Static method
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
