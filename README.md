@@ -1075,6 +1075,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     2. Static method
     3. Object.create
     4. Code challege (getter/setter)
+</br>
+
+### Day 94: April 6, 2021
+
+**:white_check_mark:Today's Progress**
+1. The Complete JavaScript - Schmedtmann
+    1. Inheritance between 'classes'
+    2. Coding challenge #3
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
