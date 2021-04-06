@@ -1073,6 +1073,8 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 1. The Complete JavaScript - Schmedtmann
     1. Setter and Getter
     2. Static method
+    3. Object.create
+    4. Code challege (getter/setter)
     
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
