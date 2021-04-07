@@ -1056,7 +1056,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. The Complete JavaScript - Schmedtmann
     1. Prototypal Inheritance
-    2. Code Challenge #1
+    2. Code Challenge #1 ✅
 </br>
 
 ### Day 92: April 4, 2021
@@ -1074,7 +1074,7 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
     1. Setter and Getter
     2. Static method
     3. Object.create
-    4. Code challege (getter/setter)
+    4. Code challege #2 (getter/setter) ✅
 </br>
 
 ### Day 94: April 6, 2021
@@ -1082,8 +1082,15 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. The Complete JavaScript - Schmedtmann
     1. Inheritance between 'classes'
-    2. Coding challenge #3
-    
+    2. Coding challenge #3 
+</br>
+
+### Day 95: April 7, 2021
+
+**:white_check_mark:Today's Progress**
+1. The Complete JavaScript - Schmedtmann
+    1. Coding Challenge #3 ✅
+    2. 
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
