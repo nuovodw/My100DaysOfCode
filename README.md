@@ -1090,7 +1090,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. The Complete JavaScript - Schmedtmann
     1. Coding Challenge #3 ✅
-    2. 
+</br>
+
+### Day 96: April 9, 2021
+
+**:white_check_mark:Today's Progress**
+1. Free Code Camp - Basic JavaScript Review
+2. Pluralist - JavaScript IQ Test
+   
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
     1. Morning :arrow_right: JavaScript: Continue DOM and Events Fundamentals and project #1 with J. Schmedtmann
