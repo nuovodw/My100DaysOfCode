@@ -1097,6 +1097,12 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. Free Code Camp - Basic JavaScript Review
 2. Pluralist - JavaScript IQ Test
+</br>
+
+### Day 97: April 12, 2021
+
+**:white_check_mark:Today's Progress**
+1. Weather app round 4
    
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
