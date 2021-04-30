@@ -1129,6 +1129,14 @@ View practice samples ➡[here](https://github.com/nuovodw/My100DaysOfCode/tree/
 **:white_check_mark:Today's Progress**
 1. NetNinja: FireBase
 2. Coding Addict: JS Fundamentals
+</br>
+
+### Day 2: April 30, 2021
+
+**:white_check_mark:Today's Progress**
+1. Coding Addict: JS Fundamentals 
+    1. Finished Part I
+    2. Started Part II
    
 <!-- **:calendar:Short-term plan:**</br> 
 1. Upcoming week: 
